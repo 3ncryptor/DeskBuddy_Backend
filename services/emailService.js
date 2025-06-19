@@ -1,7 +1,7 @@
-const nodemailer = require('nodemailer');
-const QRCode = require('qrcode');
-const handlebars = require('handlebars');
-const logger = require('../utils/logger');
+const nodemailer = require("nodemailer");
+const QRCode = require("qrcode");
+const handlebars = require("handlebars");
+const logger = require("../utils/logger");
 
 // Email template
 const emailTemplate = `
@@ -199,15 +199,49 @@ const emailTemplate = `
 // Compile the template
 const template = handlebars.compile(emailTemplate);
 
-// Create transporter
+// Create SMTP transporter with multiple provider support
 const createTransporter = () => {
-  return nodemailer.createTransport({
-    service: 'gmail',
+  const smtpConfig = {
+    host: process.env.SMTP_HOST,
+    port: parseInt(process.env.SMTP_PORT) || 587,
+    secure: process.env.SMTP_SECURE === "true", // true for 465, false for other ports
     auth: {
-      user: process.env.EMAIL_USER,
-      pass: process.env.EMAIL_PASSWORD
-    }
-  });
+      user: process.env.SMTP_USER,
+      pass: process.env.SMTP_PASSWORD,
+    },
+    // Additional SMTP options
+    connectionTimeout: 60000, // 60 seconds
+    greetingTimeout: 30000, // 30 seconds
+    socketTimeout: 60000, // 60 seconds
+  };
+
+  // Add TLS options if specified
+  if (process.env.SMTP_TLS_REJECT_UNAUTHORIZED === "false") {
+    smtpConfig.tls = {
+      rejectUnauthorized: false,
+    };
+  }
+
+  // Add debug mode if specified
+  if (process.env.SMTP_DEBUG === "true") {
+    smtpConfig.debug = true;
+    smtpConfig.logger = true;
+  }
+
+  return nodemailer.createTransport(smtpConfig);
+};
+
+// Test SMTP connection
+const testSMTPConnection = async () => {
+  try {
+    const transporter = createTransporter();
+    await transporter.verify();
+    logger.info("SMTP connection verified successfully");
+    return { success: true, message: "SMTP connection verified" };
+  } catch (error) {
+    logger.error("SMTP connection failed", { error: error.message });
+    return { success: false, error: error.message };
+  }
 };
 
 // Generate QR code for student
@@ -218,13 +252,16 @@ const generateQRCode = async (studentid) => {
       width: 200,
       margin: 2,
       color: {
-        dark: '#1a237e',
-        light: '#ffffff'
-      }
+        dark: "#1a237e",
+        light: "#ffffff",
+      },
     });
     return qrCodeDataUrl;
   } catch (error) {
-    logger.error("QR code generation failed", { studentid, error: error.message });
+    logger.error("QR code generation failed", {
+      studentid,
+      error: error.message,
+    });
     throw error;
   }
 };
@@ -237,13 +274,16 @@ const generateQRCodeBuffer = async (studentid) => {
       width: 400,
       margin: 4,
       color: {
-        dark: '#1a237e',
-        light: '#ffffff'
-      }
+        dark: "#1a237e",
+        light: "#ffffff",
+      },
     });
     return qrCodeBuffer;
   } catch (error) {
-    logger.error("QR code buffer generation failed", { studentid, error: error.message });
+    logger.error("QR code buffer generation failed", {
+      studentid,
+      error: error.message,
+    });
     throw error;
   }
 };
@@ -252,36 +292,38 @@ const generateQRCodeBuffer = async (studentid) => {
 const sendEmailToStudent = async (student, transporter) => {
   try {
     const { name, email, studentid } = student;
-    
+
     logger.info("Generating QR code for student", { studentid, email });
     const qrCodeDataUrl = await generateQRCode(studentid);
     const qrCodeBuffer = await generateQRCodeBuffer(studentid);
-    
+
     // Debug: Log QR code data URL (first 100 chars)
-    logger.info("QR code generated", { 
-      studentid, 
+    logger.info("QR code generated", {
+      studentid,
       qrCodeDataUrlLength: qrCodeDataUrl.length,
       qrCodeDataUrlStart: qrCodeDataUrl.substring(0, 100) + "...",
-      qrCodeBufferLength: qrCodeBuffer.length
+      qrCodeBufferLength: qrCodeBuffer.length,
     });
-    
+
     // Compile email template with student data (without embedded QR code)
     const htmlContent = template({
       name,
       studentId: studentid,
-      qrCodeDataUrl: '' // Remove embedded QR code
+      qrCodeDataUrl: "", // Remove embedded QR code
     });
-    
+
     // Debug: Log HTML content length
-    logger.info("Email HTML compiled", { 
-      studentid, 
+    logger.info("Email HTML compiled", {
+      studentid,
       htmlContentLength: htmlContent.length,
-      hasQRCodeInHTML: htmlContent.includes('data:image/png;base64')
+      hasQRCodeInHTML: htmlContent.includes("data:image/png;base64"),
     });
-    
+
     // Email options with attachment
     const mailOptions = {
-      from: `"DeskBuddy System" <${process.env.EMAIL_USER}>`,
+      from: `"DeskBuddy System" <${
+        process.env.SMTP_FROM || process.env.SMTP_USER
+      }>`,
       to: email,
       subject: `Your DeskBuddy Arrival QR Code - ${name}`,
       html: htmlContent,
@@ -289,74 +331,111 @@ const sendEmailToStudent = async (student, transporter) => {
         {
           filename: `QR_${studentid}.png`,
           content: qrCodeBuffer,
-          contentType: 'image/png'
-        }
-      ]
+          contentType: "image/png",
+        },
+      ],
     };
-    
+
     // Send email
     logger.info("Sending email to student", { studentid, email });
     const result = await transporter.sendMail(mailOptions);
-    
-    logger.info("Email sent successfully", { 
-      studentid, 
-      email, 
-      messageId: result.messageId 
+
+    logger.info("Email sent successfully", {
+      studentid,
+      email,
+      messageId: result.messageId,
     });
-    
+
     return { success: true, studentid, email, messageId: result.messageId };
-    
   } catch (error) {
-    logger.error("Email sending failed", { 
-      studentid: student.studentid, 
-      email: student.email, 
-      error: error.message 
+    logger.error("Email sending failed", {
+      studentid: student.studentid,
+      email: student.email,
+      error: error.message,
     });
-    return { 
-      success: false, 
-      studentid: student.studentid, 
-      email: student.email, 
-      error: error.message 
+    return {
+      success: false,
+      studentid: student.studentid,
+      email: student.email,
+      error: error.message,
     };
   }
 };
 
-// Send emails to multiple students
-const sendBulkEmails = async (students) => {
+// Send emails to multiple students with rate limiting
+const sendBulkEmails = async (students, options = {}) => {
   try {
-    logger.info("Starting bulk email sending", { studentCount: students.length });
-    
+    logger.info("Starting bulk email sending", {
+      studentCount: students.length,
+    });
+
     const transporter = createTransporter();
+
+    // Test connection first
+    try {
+      await transporter.verify();
+      logger.info("SMTP connection verified for bulk sending");
+    } catch (error) {
+      logger.error("SMTP connection failed before bulk sending", {
+        error: error.message,
+      });
+      throw new Error(`SMTP connection failed: ${error.message}`);
+    }
+
     const results = [];
-    
-    // Send emails sequentially to avoid rate limiting
-    for (let i = 0; i < students.length; i++) {
-      const student = students[i];
-      const result = await sendEmailToStudent(student, transporter);
-      results.push(result);
-      
-      // Add small delay between emails
-      if (i < students.length - 1) {
-        await new Promise(resolve => setTimeout(resolve, 1000));
+    const batchSize = options.batchSize || 10; // Send emails in batches
+    const delayBetweenEmails = options.emailDelay || 1000; // 1 second delay
+    const delayBetweenBatches = options.batchDelay || 5000; // 5 second delay between batches
+
+    // Process students in batches
+    for (let i = 0; i < students.length; i += batchSize) {
+      const batch = students.slice(i, i + batchSize);
+      logger.info(`Processing batch ${Math.floor(i / batchSize) + 1}`, {
+        batchStart: i + 1,
+        batchEnd: Math.min(i + batchSize, students.length),
+        totalStudents: students.length,
+      });
+
+      // Process current batch
+      for (let j = 0; j < batch.length; j++) {
+        const student = batch[j];
+        const result = await sendEmailToStudent(student, transporter);
+        results.push(result);
+
+        // Add delay between emails (except for last email in batch)
+        if (j < batch.length - 1) {
+          await new Promise((resolve) =>
+            setTimeout(resolve, delayBetweenEmails)
+          );
+        }
+      }
+
+      // Add delay between batches (except for last batch)
+      if (i + batchSize < students.length) {
+        logger.info(
+          `Batch completed, waiting ${delayBetweenBatches}ms before next batch`
+        );
+        await new Promise((resolve) =>
+          setTimeout(resolve, delayBetweenBatches)
+        );
       }
     }
-    
-    const successful = results.filter(r => r.success);
-    const failed = results.filter(r => !r.success);
-    
+
+    const successful = results.filter((r) => r.success);
+    const failed = results.filter((r) => !r.success);
+
     logger.info("Bulk email sending completed", {
       total: students.length,
       successful: successful.length,
-      failed: failed.length
+      failed: failed.length,
     });
-    
+
     return {
       total: students.length,
       successful: successful.length,
       failed: failed.length,
-      results
+      results,
     };
-    
   } catch (error) {
     logger.error("Bulk email sending failed", { error: error.message });
     throw error;
@@ -366,5 +445,7 @@ const sendBulkEmails = async (students) => {
 module.exports = {
   sendBulkEmails,
   generateQRCode,
-  generateQRCodeBuffer
-}; 
+  generateQRCodeBuffer,
+  testSMTPConnection,
+  createTransporter,
+};
