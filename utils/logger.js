@@ -15,7 +15,7 @@ const createLogEntry = (level, message, data = {}) => {
 };
 
 const writeLog = (logEntry) => {
-  const logString = JSON.stringify(logEntry);
+  const logString = JSON.stringify(logEntry, null, 2);
   
   // Console output with color coding
   const colors = {
