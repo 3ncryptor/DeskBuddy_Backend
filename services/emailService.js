@@ -8,190 +8,128 @@ const emailTemplate = `
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your DeskBuddy Arrival QR Code</title>
-    <style>
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            line-height: 1.6;
-            color: #333;
-            max-width: 600px;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #f4f4f4;
-        }
-        .email-container {
-            background-color: #ffffff;
-            border-radius: 12px;
-            padding: 30px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-        }
-        .header {
-            text-align: center;
-            margin-bottom: 30px;
-            padding-bottom: 20px;
-            border-bottom: 2px solid #1a237e;
-        }
-        .logo {
-            font-size: 28px;
-            font-weight: bold;
-            color: #1a237e;
-            margin-bottom: 10px;
-        }
-        .subtitle {
-            color: #666;
-            font-size: 16px;
-        }
-        .student-info {
-            background-color: #f8f9fa;
-            padding: 20px;
-            border-radius: 8px;
-            margin: 20px 0;
-            border-left: 4px solid #1a237e;
-        }
-        .student-name {
-            font-size: 20px;
-            font-weight: bold;
-            color: #1a237e;
-            margin-bottom: 10px;
-        }
-        .student-id {
-            font-size: 16px;
-            color: #666;
-            background-color: #e3f2fd;
-            padding: 8px 12px;
-            border-radius: 6px;
-            display: inline-block;
-        }
-        .qr-section {
-            text-align: center;
-            margin: 30px 0;
-            padding: 20px;
-            background-color: #f8f9fa;
-            border-radius: 8px;
-        }
-        .qr-code {
-            margin: 20px 0;
-        }
-        .qr-code img {
-            border: 2px solid #1a237e;
-            border-radius: 8px;
-            padding: 10px;
-            background-color: white;
-        }
-        .qr-download {
-            margin-top: 15px;
-        }
-        .qr-download a {
-            display: inline-block;
-            background-color: #28a745;
-            color: white;
-            padding: 10px 20px;
-            text-decoration: none;
-            border-radius: 6px;
-            font-weight: bold;
-        }
-        .instructions {
-            background-color: #e8f5e8;
-            padding: 20px;
-            border-radius: 8px;
-            margin: 20px 0;
-            border-left: 4px solid #28a745;
-        }
-        .instructions h3 {
-            color: #28a745;
-            margin-top: 0;
-        }
-        .instructions ol {
-            margin: 10px 0;
-            padding-left: 20px;
-        }
-        .instructions li {
-            margin: 8px 0;
-        }
-        .footer {
-            text-align: center;
-            margin-top: 30px;
-            padding-top: 20px;
-            border-top: 1px solid #eee;
-            color: #666;
-            font-size: 14px;
-        }
-        .contact-info {
-            background-color: #fff3cd;
-            padding: 15px;
-            border-radius: 6px;
-            margin: 20px 0;
-            border-left: 4px solid #ffc107;
-        }
-        .contact-info strong {
-            color: #856404;
-        }
-        @media (max-width: 600px) {
-            body {
-                padding: 10px;
-            }
-            .email-container {
-                padding: 20px;
-            }
-        }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Welcome to Newton School of Technology</title>
+  <style>
+    body {
+      background: #000000;
+      margin: 0;
+      padding: 0;
+      font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      color: #fff;
+      min-height: 100vh;
+    }
+    .fade-in {
+      animation: fadeIn 1.2s cubic-bezier(.4,0,.2,1);
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(24px) scale(0.98); }
+      to { opacity: 1; transform: none; }
+    }
+    .main-card {
+      background: #000000;
+      border-radius: 18px;
+      max-width: 480px;
+      margin: 40px auto;
+      box-shadow: 0 6px 32px 0 rgba(124,252,152,0.10);
+      border-left: 6px solid #7CFC98;
+      padding: 0;
+      overflow: hidden;
+      transition: box-shadow 0.3s;
+    }
+    .logo-row {
+      text-align: center;
+      padding: 32px 0 18px 0;
+    }
+    .logo {
+      font-size: 2rem;
+      font-weight: 800;
+      color: #7CFC98;
+      letter-spacing: 0.02em;
+      margin-bottom: 0;
+    }
+    .inner-card {
+      background: #101010;
+      border-radius: 14px;
+      margin: 18px 24px 0 24px;
+      padding: 18px 20px;
+      box-shadow: 0 2px 12px 0 rgba(124,252,152,0.06);
+      border-left: 4px solid #7CFC98;
+      border-top: none;
+      border-bottom: none;
+      border-right: none;
+    }
+    .student-info-row {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      font-size: 1.08rem;
+    }
+    .info-label {
+      color: #7CFC98;
+      font-weight: 600;
+      font-size: 0.98rem;
+      min-width: 80px;
+    }
+    .info-value {
+      color: #fff;
+      font-weight: 700;
+      font-size: 1.08rem;
+      background: #181f2a;
+      border-radius: 8px;
+      padding: 4px 14px;
+      border-left: 3px solid #7CFC98;
+      letter-spacing: 0.01em;
+      display: inline-block;
+      margin-left: 8px;
+    }
+    .welcome-message {
+      color: #7CFC98;
+      font-size: 1.12rem;
+      text-align: center;
+      margin: 32px 32px 0 32px;
+      border-left: 4px solid #7CFC98;
+      border-radius: 0 8px 8px 0;
+      background: rgba(124,252,152,0.07);
+      padding: 18px 20px;
+      box-shadow: 0 2px 12px 0 rgba(124,252,152,0.06);
+      font-weight: 600;
+    }
+    .footer {
+      text-align: center;
+      color: #7CFC98;
+      font-size: 0.98rem;
+      margin: 32px 0 18px 0;
+      letter-spacing: 0.01em;
+    }
+    @media (max-width: 600px) {
+      .main-card { max-width: 98vw; margin: 16px auto; }
+      .inner-card { margin: 12px 4vw 0 4vw; padding: 14px 8px; }
+      .logo-row { padding: 18px 0 10px 0; }
+      .welcome-message { margin: 18px 4vw 0 4vw; padding: 14px 8px; }
+    }
+  </style>
 </head>
-<body>
-    <div class="email-container">
-        <div class="header">
-            <div class="logo">🎓 DeskBuddy</div>
-            <div class="subtitle">Your Digital Arrival Assistant</div>
-        </div>
-
-        <div class="student-info">
-            <div class="student-name">Hi {{name}},</div>
-            <div>Your Student ID: <span class="student-id">{{studentId}}</span></div>
-        </div>
-
-        <div class="qr-section">
-            <h3>📱 Your Arrival QR Code</h3>
-            <p>Your personalized QR code is attached to this email as <strong>QR_{{studentId}}.png</strong></p>
-            <p>Please save this QR code on your phone or print it for arrival day.</p>
-            <div class="qr-fallback" style="margin-top: 20px; padding: 15px; background-color: #f8f9fa; border-radius: 8px; border-left: 4px solid #007bff;">
-                <h4 style="margin-top: 0; color: #007bff;">📎 About Your QR Code</h4>
-                <p style="margin-bottom: 10px;">Your QR code contains your Student ID and will be used for:</p>
-                <ul style="margin: 0; padding-left: 20px;">
-                    <li><strong>Arrival check-in</strong> at the venue</li>
-                    <li><strong>Hostel verification</strong> process</li>
-                    <li><strong>Document verification</strong> station</li>
-                    <li><strong>Kit collection</strong> at the end</li>
-                </ul>
-                <p style="margin-top: 15px; margin-bottom: 0; font-size: 14px; color: #666;">
-                    <strong>Student ID:</strong> {{studentId}} | <strong>Name:</strong> {{name}}
-                </p>
-            </div>
-        </div>
-
-        <div class="instructions">
-            <h3>📋 Arrival Instructions</h3>
-            <ol>
-                <li><strong>Save this QR code</strong> on your phone or print it</li>
-                <li><strong>Arrive at the venue</strong> on your scheduled date</li>
-                <li><strong>Show your QR code</strong> to the volunteer at the arrival station</li>
-                <li><strong>Get scanned</strong> to complete your check-in</li>
-                <li><strong>Follow the process</strong> through all verification stations</li>
-            </ol>
-        </div>
-
-        <div class="contact-info">
-            <strong>Need Help?</strong><br>
-            If you have any questions or issues, please contact us at:<br>
-            📧 support@deskbuddy.com<br>
-            📞 +1 (555) 123-4567
-        </div>
-
-        <div class="footer">
-            <p>This is an automated message from DeskBuddy System.</p>
-            <p>Please do not reply to this email.</p>
-        </div>
+<body style="background: #000000;">
+  <div class="main-card fade-in">
+    <div class="logo-row">
+      <div class="logo">🎓 Newton School of Technology</div>
     </div>
+    <div class="inner-card">
+      <div class="student-info-row">
+        <div><span class="info-label">Name</span><span class="info-value">{{name}}</span></div>
+        <div><span class="info-label">Student ID</span><span class="info-value">{{studentId}}</span></div>
+      </div>
+    </div>
+    <div class="welcome-message">
+      Welcome to Newton School of Technology!<br>
+      <span style="color:#fff; font-weight:400; font-size:1rem; display:block; margin-top:10px;">On behalf of all your seniors, we're thrilled to welcome you to our community. We can't wait to see the amazing things you'll achieve. If you ever need help, guidance, or just a friend, we're here for you. Let's make this journey unforgettable—together!</span>
+    </div>
+    <div class="footer">
+      Need help? Contact aryanvibhuti@gmail.com
+    </div>
+  </div>
 </body>
 </html>
 `;
@@ -252,8 +190,8 @@ const generateQRCode = async (studentid) => {
       width: 200,
       margin: 2,
       color: {
-        dark: "#1a237e",
-        light: "#ffffff",
+        dark: "#ffffff",
+        light: "#000000",
       },
     });
     return qrCodeDataUrl;
@@ -274,8 +212,8 @@ const generateQRCodeBuffer = async (studentid) => {
       width: 400,
       margin: 4,
       color: {
-        dark: "#1a237e",
-        light: "#ffffff",
+        dark: "#ffffff",
+        light: "#000000",
       },
     });
     return qrCodeBuffer;
@@ -325,7 +263,7 @@ const sendEmailToStudent = async (student, transporter) => {
         process.env.SMTP_FROM || process.env.SMTP_USER
       }>`,
       to: email,
-      subject: `Your DeskBuddy Arrival QR Code - ${name}`,
+      subject: `Your DeskBuddy QR Code - ${name}`,
       html: htmlContent,
       attachments: [
         {
