@@ -322,9 +322,94 @@ const scanHostel = async (req, res) => {
     }
   };
   
+  const updateVisitorCount = async (req, res) => {
+    const { studentId, visitorCount } = req.body;
+    
+    logger.info("Updating visitor count", { studentId, visitorCount });
+    logger.api.request("POST", "/api/scan/arrival/visitors", { studentId, visitorCount });
+
+    if (!studentId || visitorCount === undefined || visitorCount < 0) {
+      logger.warn("Invalid visitor count request", { studentId, visitorCount });
+      logger.api.error("POST", "/api/scan/arrival/visitors", "Invalid parameters", { studentId, visitorCount });
+      return res.status(400).json({ error: "studentId and valid visitorCount are required" });
+    }
+
+    try {
+      // First, check if student exists and has arrived
+      logger.database.query("SELECT", "students", { studentId });
+      
+      const { data: student, error: fetchError } = await supabase
+        .from("students")
+        .select("*")
+        .eq("studentId", studentId)
+        .single();
+
+      if (fetchError || !student) {
+        logger.database.error("SELECT", "students", fetchError, { studentId });
+        logger.api.error("POST", "/api/scan/arrival/visitors", fetchError || "Student not found", { studentId, visitorCount });
+        return res.status(404).json({ error: "Student not found" });
+      }
+
+      if (!student.arrival) {
+        logger.warn("Student has not arrived yet", { studentId });
+        logger.api.error("POST", "/api/scan/arrival/visitors", "Student not arrived", { studentId, visitorCount });
+        return res.status(400).json({ error: "Student must be marked as arrived first" });
+      }
+
+      // Update visitor count
+      const currentTime = new Date().toISOString();
+      logger.database.query("UPDATE", "students", { 
+        studentId, 
+        fields: ["visitorCount"] 
+      });
+      
+      const { data: updatedStudent, error: updateError } = await supabase
+        .from("students")
+        .update({
+          visitorCount: visitorCount
+        })
+        .eq("studentId", studentId)
+        .select()
+        .single();
+
+      if (updateError) {
+        logger.database.error("UPDATE", "students", updateError, { studentId });
+        logger.api.error("POST", "/api/scan/arrival/visitors", updateError, { studentId, visitorCount });
+        return res.status(500).json({ error: "Failed to update visitor count" });
+      }
+
+      logger.info("Visitor count updated successfully", { 
+        studentId, 
+        visitorCount, 
+        updatedAt: currentTime 
+      });
+      logger.api.response("POST", "/api/scan/arrival/visitors", 200, { 
+        studentId, 
+        visitorCount,
+        updatedAt: currentTime 
+      });
+
+      return res.status(200).json({
+        message: "Visitor count updated successfully",
+        student: updatedStudent
+      });
+
+    } catch (err) {
+      logger.error("Unexpected error updating visitor count", { 
+        error: err.message, 
+        studentId,
+        visitorCount,
+        stack: err.stack 
+      });
+      logger.api.error("POST", "/api/scan/arrival/visitors", err, { studentId, visitorCount });
+      return res.status(500).json({ error: "Internal server error" });
+    }
+  };
+
   module.exports = {
     scanArrival,
     scanHostel,
     scanDocuments,
-    scanKit
+    scanKit,
+    updateVisitorCount
   };
