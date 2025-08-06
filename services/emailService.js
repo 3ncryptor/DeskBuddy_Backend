@@ -221,11 +221,11 @@ const sendEmailToStudent = async (student, transporter) => {
 
     // Email options with attachment
     const mailOptions = {
-      from: `"DeskBuddy System" <${
+      from: `"Rishihood University" <${
         process.env.SMTP_FROM || process.env.SMTP_USER
       }>`,
       to: email,
-      subject: `Your DeskBuddy QR Code - ${name}`,
+      subject: `Welcome to Rishihood University - ${name}`,
       html: htmlContent,
       attachments: [
         {

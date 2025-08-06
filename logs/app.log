@@ -64789,3 +64789,291 @@
   "pid": 76211,
   "service": "deskbuddy-backend"
 }
+{
+  "timestamp": "2025-08-06T13:11:03.647Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.7.0",
+  "pid": 39150,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-06T13:12:46.344Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "POST",
+  "path": "/api/email/upload-csv",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 39150,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-06T13:12:46.354Z",
+  "level": "INFO",
+  "message": "CSV file uploaded",
+  "originalName": "test_email.csv",
+  "size": 137,
+  "pid": 39150,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-06T13:12:48.337Z",
+  "level": "INFO",
+  "message": "SMTP connection verified successfully",
+  "pid": 39150,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-06T13:12:48.338Z",
+  "level": "INFO",
+  "message": "SMTP connection verified, proceeding with CSV processing",
+  "pid": 39150,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-06T13:12:48.340Z",
+  "level": "INFO",
+  "message": "File saved successfully",
+  "originalName": "test_email.csv",
+  "savedPath": "uploads/test_email_1754485968339.csv",
+  "pid": 39150,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-06T13:12:48.340Z",
+  "level": "INFO",
+  "message": "Starting CSV parsing",
+  "filePath": "uploads/test_email_1754485968339.csv",
+  "pid": 39150,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-06T13:12:48.341Z",
+  "level": "INFO",
+  "message": "CSV header detected",
+  "header": [
+    "name",
+    "email",
+    "studentid"
+  ],
+  "pid": 39150,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-06T13:12:48.342Z",
+  "level": "INFO",
+  "message": "Parsed values for row",
+  "rowNumber": 2,
+  "values": [
+    "Aryan Vibhuti",
+    "aryan.vibhuti2024@nst.rishihood.edu.in",
+    "RU00001"
+  ],
+  "pid": 39150,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-06T13:12:48.346Z",
+  "level": "INFO",
+  "message": "First parsed student object",
+  "student": {
+    "name": "Aryan Vibhuti",
+    "email": "aryan.vibhuti2024@nst.rishihood.edu.in",
+    "studentid": "RU00001"
+  },
+  "pid": 39150,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-06T13:12:48.350Z",
+  "level": "INFO",
+  "message": "Parsed values for row",
+  "rowNumber": 3,
+  "values": [
+    "Piyush Yadav",
+    "piyush.2024@nst.rishihood.edu.in",
+    "NST123"
+  ],
+  "pid": 39150,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-06T13:12:48.351Z",
+  "level": "INFO",
+  "message": "CSV parsing completed",
+  "totalRows": 2,
+  "validStudents": 2,
+  "errors": 0,
+  "pid": 39150,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-06T13:12:48.351Z",
+  "level": "INFO",
+  "message": "CSV parsed successfully",
+  "validStudents": 2,
+  "pid": 39150,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-06T13:12:48.352Z",
+  "level": "INFO",
+  "message": "Starting bulk email sending",
+  "studentCount": 2,
+  "pid": 39150,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-06T13:12:50.146Z",
+  "level": "INFO",
+  "message": "SMTP connection verified for bulk sending",
+  "pid": 39150,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-06T13:12:50.147Z",
+  "level": "INFO",
+  "message": "Processing batch 1",
+  "batchStart": 1,
+  "batchEnd": 2,
+  "totalStudents": 2,
+  "pid": 39150,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-06T13:12:50.148Z",
+  "level": "INFO",
+  "message": "Generating QR code for student",
+  "studentid": "RU00001",
+  "email": "aryan.vibhuti2024@nst.rishihood.edu.in",
+  "pid": 39150,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-06T13:12:50.189Z",
+  "level": "INFO",
+  "message": "QR code generated",
+  "studentid": "RU00001",
+  "qrCodeDataUrlLength": 1698,
+  "qrCodeDataUrlStart": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAADICAYAAACtWK6eAAAAAklEQVR4AewaftIAAASgSURBVO3BQW...",
+  "qrCodeBufferLength": 2219,
+  "pid": 39150,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-06T13:12:50.196Z",
+  "level": "INFO",
+  "message": "Email HTML compiled",
+  "studentid": "RU00001",
+  "htmlContentLength": 3888,
+  "hasQRCodeInHTML": false,
+  "pid": 39150,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-06T13:12:50.196Z",
+  "level": "INFO",
+  "message": "Sending email to student",
+  "studentid": "RU00001",
+  "email": "aryan.vibhuti2024@nst.rishihood.edu.in",
+  "pid": 39150,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-06T13:12:54.357Z",
+  "level": "INFO",
+  "message": "Email sent successfully",
+  "studentid": "RU00001",
+  "email": "aryan.vibhuti2024@nst.rishihood.edu.in",
+  "messageId": "<430b4a76-faa9-48ab-21ea-0366e74a2b20@gmail.com>",
+  "pid": 39150,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-06T13:12:55.358Z",
+  "level": "INFO",
+  "message": "Generating QR code for student",
+  "studentid": "NST123",
+  "email": "piyush.2024@nst.rishihood.edu.in",
+  "pid": 39150,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-06T13:12:55.391Z",
+  "level": "INFO",
+  "message": "QR code generated",
+  "studentid": "NST123",
+  "qrCodeDataUrlLength": 1694,
+  "qrCodeDataUrlStart": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAADICAYAAACtWK6eAAAAAklEQVR4AewaftIAAASdSURBVO3BQY...",
+  "qrCodeBufferLength": 2214,
+  "pid": 39150,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-06T13:12:55.391Z",
+  "level": "INFO",
+  "message": "Email HTML compiled",
+  "studentid": "NST123",
+  "htmlContentLength": 3885,
+  "hasQRCodeInHTML": false,
+  "pid": 39150,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-06T13:12:55.391Z",
+  "level": "INFO",
+  "message": "Sending email to student",
+  "studentid": "NST123",
+  "email": "piyush.2024@nst.rishihood.edu.in",
+  "pid": 39150,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-06T13:12:59.108Z",
+  "level": "INFO",
+  "message": "Email sent successfully",
+  "studentid": "NST123",
+  "email": "piyush.2024@nst.rishihood.edu.in",
+  "messageId": "<ab9654e3-3a1b-ff3c-0916-fa9917fa7a82@gmail.com>",
+  "pid": 39150,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-06T13:12:59.109Z",
+  "level": "INFO",
+  "message": "Bulk email sending completed",
+  "total": 2,
+  "successful": 2,
+  "failed": 0,
+  "pid": 39150,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-06T13:12:59.110Z",
+  "level": "INFO",
+  "message": "File cleaned up",
+  "filePath": "uploads/test_email_1754485968339.csv",
+  "pid": 39150,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-06T13:13:18.886Z",
+  "level": "INFO",
+  "message": "SIGINT received, shutting down gracefully",
+  "pid": 39150,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-06T13:13:18.887Z",
+  "level": "INFO",
+  "message": "Process terminated",
+  "signal": "SIGINT",
+  "pid": 39150,
+  "service": "deskbuddy-backend"
+}
