@@ -1,5 +1,6 @@
 const supabase = require("../services/supabaseClient");
 const logger = require("../utils/logger");
+const paymentService = require("../services/paymentService");
 
 const allowedStages = {
   arrival: ["arrival", "arrivalVerifiedBy", "arrivalTime"],
@@ -78,6 +79,18 @@ const scanArrival = async (req, res) => {
       return res.status(404).json({ error: "Student not found" });
     }
 
+    // Always call the external payment API to get dueAmount
+    let dueAmount = null;
+    const paymentResult = await paymentService.getPaymentData(studentId);
+    if (paymentResult.success) {
+      dueAmount = paymentResult.dueAmount;
+    } else {
+      logger.error('Failed to fetch payment data', { 
+        studentId, 
+        error: paymentResult.error 
+      });
+    }
+
     // Check if already arrived
     if (student.arrival) {
       logger.warn("Student already arrived", { 
@@ -94,7 +107,8 @@ const scanArrival = async (req, res) => {
       return res.status(409).json({ 
         error: "Student has already arrived",
         arrivalTime: student.arrivalTime,
-        verifiedBy: student.arrivalVerifiedBy
+        verifiedBy: student.arrivalVerifiedBy,
+        dueAmount
       });
     }
 
@@ -135,7 +149,8 @@ const scanArrival = async (req, res) => {
 
     return res.status(200).json({
       message: "Arrival recorded successfully",
-      student: updatedStudent
+      student: updatedStudent,
+      dueAmount
     });
 
   } catch (err) {

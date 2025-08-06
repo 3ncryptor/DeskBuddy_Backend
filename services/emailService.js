@@ -9,129 +9,91 @@ const emailTemplate = `
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Welcome to Newton School of Technology</title>
-  <style>
-    body {
-      background: #000000;
-      margin: 0;
-      padding: 0;
-      font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      color: #fff;
-      min-height: 100vh;
-    }
-    .fade-in {
-      animation: fadeIn 1.2s cubic-bezier(.4,0,.2,1);
-    }
-    @keyframes fadeIn {
-      from { opacity: 0; transform: translateY(24px) scale(0.98); }
-      to { opacity: 1; transform: none; }
-    }
-    .main-card {
-      background: #000000;
-      border-radius: 18px;
-      max-width: 480px;
-      margin: 40px auto;
-      box-shadow: 0 6px 32px 0 rgba(124,252,152,0.10);
-      border-left: 6px solid #7CFC98;
-      padding: 0;
-      overflow: hidden;
-      transition: box-shadow 0.3s;
-    }
-    .logo-row {
-      text-align: center;
-      padding: 32px 0 18px 0;
-    }
-    .logo {
-      font-size: 2rem;
-      font-weight: 800;
-      color: #7CFC98;
-      letter-spacing: 0.02em;
-      margin-bottom: 0;
-    }
-    .inner-card {
-      background: #101010;
-      border-radius: 14px;
-      margin: 18px 24px 0 24px;
-      padding: 18px 20px;
-      box-shadow: 0 2px 12px 0 rgba(124,252,152,0.06);
-      border-left: 4px solid #7CFC98;
-      border-top: none;
-      border-bottom: none;
-      border-right: none;
-    }
-    .student-info-row {
-      display: flex;
-      flex-direction: column;
-      gap: 8px;
-      font-size: 1.08rem;
-    }
-    .info-label {
-      color: #7CFC98;
-      font-weight: 600;
-      font-size: 0.98rem;
-      min-width: 80px;
-    }
-    .info-value {
-      color: #fff;
-      font-weight: 700;
-      font-size: 1.08rem;
-      background: #181f2a;
-      border-radius: 8px;
-      padding: 4px 14px;
-      border-left: 3px solid #7CFC98;
-      letter-spacing: 0.01em;
-      display: inline-block;
-      margin-left: 8px;
-    }
-    .welcome-message {
-      color: #7CFC98;
-      font-size: 1.12rem;
-      text-align: center;
-      margin: 32px 32px 0 32px;
-      border-left: 4px solid #7CFC98;
-      border-radius: 0 8px 8px 0;
-      background: rgba(124,252,152,0.07);
-      padding: 18px 20px;
-      box-shadow: 0 2px 12px 0 rgba(124,252,152,0.06);
-      font-weight: 600;
-    }
-    .footer {
-      text-align: center;
-      color: #7CFC98;
-      font-size: 0.98rem;
-      margin: 32px 0 18px 0;
-      letter-spacing: 0.01em;
-    }
-    @media (max-width: 600px) {
-      .main-card { max-width: 98vw; margin: 16px auto; }
-      .inner-card { margin: 12px 4vw 0 4vw; padding: 14px 8px; }
-      .logo-row { padding: 18px 0 10px 0; }
-      .welcome-message { margin: 18px 4vw 0 4vw; padding: 14px 8px; }
-    }
-  </style>
+  <title>Welcome to Rishihood University</title>
 </head>
-<body style="background: #000000;">
-  <div class="main-card fade-in">
-    <div class="logo-row">
-      <div class="logo">🎓 Newton School of Technology</div>
-    </div>
-    <div class="inner-card">
-      <div class="student-info-row">
-        <div><span class="info-label">Name</span><span class="info-value">{{name}}</span></div>
-        <div><span class="info-label">Student ID</span><span class="info-value">{{studentId}}</span></div>
-      </div>
-    </div>
-    <div class="welcome-message">
-      Welcome to Newton School of Technology!<br>
-      <span style="color:#fff; font-weight:400; font-size:1rem; display:block; margin-top:10px;">On behalf of all your seniors, we're thrilled to welcome you to our community. We can't wait to see the amazing things you'll achieve. If you ever need help, guidance, or just a friend, we're here for you. Let's make this journey unforgettable—together!</span>
-    </div>
-    <div class="footer">
-      Need help? Contact aryanvibhuti@gmail.com
-    </div>
-  </div>
+<body style="margin:0;padding:0;background-color:#f4f7f9;font-family:Arial,sans-serif;">
+  <table align="center" width="100%" style="max-width:620px;margin:30px auto;background-color:#ffffff;border:1px solid #ddd;padding:24px;border-radius:10px;box-sizing:border-box;box-shadow:0 4px 12px rgba(0,0,0,0.06);">
+    
+    <!-- Logo -->
+    <tr>
+      <td align="center" style="padding-bottom:24px;">
+        <img src="https://s3.ap-south-1.amazonaws.com/rishihoodmarketingimg/logo.png" alt="Rishihood University Logo" style="max-width:160px;width:100%;height:auto;">
+      </td>
+    </tr>
+
+    <!-- Header -->
+    <tr>
+      <td style="color:#1d1d1f;text-align:center;font-size:22px;font-weight:bold;padding-bottom:12px;">
+        Welcome to Rishihood University
+      </td>
+    </tr>
+
+    <!-- Divider -->
+    <tr>
+      <td><hr style="border:none;border-top:1px solid #eee;margin:20px 0;"></td>
+    </tr>
+
+    <!-- Spacer -->
+    <tr><td style="height:20px;"></td></tr>
+
+    <!-- Welcome Message -->
+    <tr>
+      <td style="color:#333;font-size:14px;line-height:1.7;padding:0 4px;">
+        <strong>Dear {{name}},</strong><br><br>
+
+        We’re excited to welcome you to <strong>Rishihood University</strong>!<br><br>
+
+        <!-- Student Details Box -->
+        <div style="background-color:#f9f9f9;padding:18px 20px;border-radius:8px;margin-bottom:20px;">
+          <p style="color:#222;font-size:14px;margin:0 0 12px;font-weight:600;">Your Details:</p>
+          <p style="color:#555;font-size:14px;margin:6px 0;"><strong>Name:</strong> {{name}}</p>
+          <p style="color:#555;font-size:14px;margin:6px 0;"><strong>Enrollment ID:</strong> {{studentId}}</p>
+        </div>
+
+        To ensure a smooth onboarding experience, we’ve introduced a <strong>QR code-based check-in process</strong>:<br><br>
+
+        <ul style="padding-left:18px;margin:0;">
+          <li style="color:#555;font-size:14px;margin-bottom:10px;line-height:1.6;">This QR code is your key – you’ll scan it at all checkpoints, including hostel check-in, ID card generation, welcome kit collection, and more.</li>
+          <li style="color:#555;font-size:14px;margin-bottom:10px;line-height:1.6;">Please keep your QR code easily accessible on your phone at all times.</li>
+          <li style="color:#555;font-size:14px;margin-bottom:10px;line-height:1.6;">We’ve shared the complete onboarding flow below — please take a moment to review it before arriving on campus.</li>
+        </ul><br>
+
+        <!-- CTA Button -->
+        <div style="text-align:center;margin-top:10px;">
+          <a href="https://drive.google.com/file/d/1VBL5ggf4bJt9p74zJO_TlJlEbdb1D7Go/view?usp=sharing"
+             style="display:inline-block;background-color:#d9541b;color:#ffffff;text-decoration:none;padding:12px 26px;border-radius:6px;font-weight:bold;font-size:16px;border:2px solid transparent;">
+            View Onboarding Flow
+          </a>
+        </div><br>
+
+        We’re thrilled to have you join the Rishihood family and can’t wait to meet you in person!<br><br>
+
+        Warm regards,<br>
+        <strong>Team Rishihood</strong>
+      </td>
+    </tr>
+
+    <!-- Spacer -->
+    <tr><td style="height:30px;"></td></tr>
+
+    <!-- Footer Help Info -->
+    <tr>
+      <td style="color:#555;text-align:center;font-size:14px;line-height:1.6;padding:0 4px;">
+        Need assistance or have questions?<br>
+        Reach us at <strong><a href="mailto:aryanvibhuti@gmail.com" style="color:#d9541b;text-decoration:none;">aryanvibhuti@gmail.com</a></strong>
+      </td>
+    </tr>
+
+    <!-- Legal Footer -->
+    <tr>
+      <td style="color:#999;text-align:center;font-size:12px;padding-top:20px;">
+        © 2025 Rishihood University. All rights reserved.
+      </td>
+    </tr>
+  </table>
 </body>
 </html>
+
 `;
 
 // Compile the template
