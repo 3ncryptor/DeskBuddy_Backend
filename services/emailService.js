@@ -80,7 +80,7 @@ const emailTemplate = `
     <tr>
       <td style="color:#555;text-align:center;font-size:14px;line-height:1.6;padding:0 4px;">
         Need assistance or have questions?<br>
-        Reach us at <strong><a href="mailto:aryanvibhuti@gmail.com" style="color:#d9541b;text-decoration:none;">aryanvibhuti@gmail.com</a></strong>
+        Reach us at <strong><a href="mailto:tech@rishihood.edu.in" style="color:#d9541b;text-decoration:none;">tech@rishihood.edu.in</a></strong>
       </td>
     </tr>
 
