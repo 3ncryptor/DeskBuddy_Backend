@@ -65077,3 +65077,7733 @@
   "pid": 39150,
   "service": "deskbuddy-backend"
 }
+{
+  "timestamp": "2025-08-07T19:49:52.130Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3000",
+  "environment": "development",
+  "nodeVersion": "v23.3.0",
+  "pid": 74004,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:10:18.756Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3000",
+  "environment": "development",
+  "nodeVersion": "v23.3.0",
+  "pid": 99069,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:10:20.046Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3000",
+  "environment": "development",
+  "nodeVersion": "v23.3.0",
+  "pid": 99120,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:10:30.546Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3000",
+  "environment": "development",
+  "nodeVersion": "v23.3.0",
+  "pid": 99407,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:10:43.277Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3000",
+  "environment": "development",
+  "nodeVersion": "v23.3.0",
+  "pid": 99737,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:10:54.049Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3000",
+  "environment": "development",
+  "nodeVersion": "v23.3.0",
+  "pid": 110,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:11:05.343Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3000",
+  "environment": "development",
+  "nodeVersion": "v23.3.0",
+  "pid": 478,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:11:41.567Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3000",
+  "environment": "development",
+  "nodeVersion": "v23.3.0",
+  "pid": 1409,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:11:43.042Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3000",
+  "environment": "development",
+  "nodeVersion": "v23.3.0",
+  "pid": 1459,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:11:49.819Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3000",
+  "environment": "development",
+  "nodeVersion": "v23.3.0",
+  "pid": 1707,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:11:58.860Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3000",
+  "environment": "development",
+  "nodeVersion": "v23.3.0",
+  "pid": 1963,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:13:32.492Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3000",
+  "environment": "development",
+  "nodeVersion": "v23.3.0",
+  "pid": 4060,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:15:58.713Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3000",
+  "environment": "development",
+  "nodeVersion": "v23.3.0",
+  "pid": 7356,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:22:14.969Z",
+  "level": "INFO",
+  "message": "SIGINT received, shutting down gracefully",
+  "pid": 7356,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:22:14.979Z",
+  "level": "INFO",
+  "message": "Process terminated",
+  "signal": "SIGINT",
+  "pid": 7356,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:22:16.405Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3000",
+  "environment": "development",
+  "nodeVersion": "v23.3.0",
+  "pid": 15407,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:22:34.274Z",
+  "level": "INFO",
+  "message": "SIGINT received, shutting down gracefully",
+  "pid": 15407,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:22:34.279Z",
+  "level": "INFO",
+  "message": "Process terminated",
+  "signal": "SIGINT",
+  "pid": 15407,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:22:35.322Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.3.0",
+  "pid": 15897,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:22:46.621Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 15897,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:22:46.623Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 15897,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:22:46.623Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 15897,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:22:47.057Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "Invalid API key",
+  "studentId": "RU00001",
+  "pid": 15897,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:22:47.059Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "Invalid API key",
+  "studentId": "RU00001",
+  "pid": 15897,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:25:46.024Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.3.0",
+  "pid": 20014,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:25:52.057Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 20014,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:25:52.060Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 20014,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:25:52.061Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 20014,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:25:52.486Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "Invalid API key",
+  "studentId": "RU00001",
+  "pid": 20014,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:25:52.487Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "Invalid API key",
+  "studentId": "RU00001",
+  "pid": 20014,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:27:00.279Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.3.0",
+  "pid": 21573,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:27:10.753Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 21573,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:27:10.756Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 21573,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:27:10.757Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 21573,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:27:10.896Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "Invalid API key",
+  "studentId": "RU00001",
+  "pid": 21573,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:27:10.896Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "Invalid API key",
+  "studentId": "RU00001",
+  "pid": 21573,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:30:13.117Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.3.0",
+  "pid": 25636,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:30:23.201Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 25636,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:30:23.205Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 25636,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:30:23.205Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 25636,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:30:23.371Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "Invalid API key",
+  "studentId": "RU00001",
+  "pid": 25636,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:30:23.371Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "Invalid API key",
+  "studentId": "RU00001",
+  "pid": 25636,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:32:17.558Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 25636,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:32:17.570Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 25636,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:32:17.571Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 25636,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:32:18.000Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "Invalid API key",
+  "studentId": "RU00001",
+  "pid": 25636,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:32:18.000Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "Invalid API key",
+  "studentId": "RU00001",
+  "pid": 25636,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:32:26.693Z",
+  "level": "INFO",
+  "message": "SIGINT received, shutting down gracefully",
+  "pid": 25636,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:32:26.701Z",
+  "level": "INFO",
+  "message": "Process terminated",
+  "signal": "SIGINT",
+  "pid": 25636,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:32:28.600Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "300",
+  "environment": "development",
+  "nodeVersion": "v23.3.0",
+  "pid": 28788,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:32:52.959Z",
+  "level": "INFO",
+  "message": "SIGINT received, shutting down gracefully",
+  "pid": 28788,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:32:52.962Z",
+  "level": "INFO",
+  "message": "Process terminated",
+  "signal": "SIGINT",
+  "pid": 28788,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:32:55.007Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.3.0",
+  "pid": 29510,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:33:02.421Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 29510,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:33:02.423Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 29510,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:33:02.424Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 29510,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:33:02.756Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "statusCode": 200,
+  "studentId": "RU00001",
+  "studentFound": true,
+  "pid": 29510,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:33:02.777Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/scan/payment/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 29510,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:33:02.779Z",
+  "level": "INFO",
+  "message": "PaymentService: Fetching payment data",
+  "studentId": "RU00001",
+  "pid": 29510,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:33:02.936Z",
+  "level": "INFO",
+  "message": "PaymentService: Payment data fetched successfully",
+  "studentId": "RU00001",
+  "dueAmount": 384067,
+  "pid": 29510,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:33:58.004Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 29510,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:33:58.005Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 29510,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:33:58.006Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 29510,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:33:58.147Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "statusCode": 200,
+  "studentId": "RU00001",
+  "studentFound": true,
+  "pid": 29510,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:33:58.152Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/scan/payment/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 29510,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:33:58.153Z",
+  "level": "INFO",
+  "message": "PaymentService: Fetching payment data",
+  "studentId": "RU00001",
+  "pid": 29510,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:33:58.275Z",
+  "level": "INFO",
+  "message": "PaymentService: Payment data fetched successfully",
+  "studentId": "RU00001",
+  "dueAmount": 384067,
+  "pid": 29510,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:35:33.419Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 29510,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:35:33.421Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 29510,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:35:33.421Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 29510,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:35:33.920Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "statusCode": 200,
+  "studentId": "RU00001",
+  "studentFound": true,
+  "pid": 29510,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:35:33.926Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/scan/payment/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 29510,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:35:33.926Z",
+  "level": "INFO",
+  "message": "PaymentService: Fetching payment data",
+  "studentId": "RU00001",
+  "pid": 29510,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:35:34.140Z",
+  "level": "INFO",
+  "message": "PaymentService: Payment data fetched successfully",
+  "studentId": "RU00001",
+  "dueAmount": 384067,
+  "pid": 29510,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:36:54.163Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 29510,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:36:54.168Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 29510,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:36:54.168Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 29510,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:36:54.378Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "statusCode": 200,
+  "studentId": "RU00001",
+  "studentFound": true,
+  "pid": 29510,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:36:54.399Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/scan/payment/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 29510,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:36:54.401Z",
+  "level": "INFO",
+  "message": "PaymentService: Fetching payment data",
+  "studentId": "RU00001",
+  "pid": 29510,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:36:54.568Z",
+  "level": "INFO",
+  "message": "PaymentService: Payment data fetched successfully",
+  "studentId": "RU00001",
+  "dueAmount": 384067,
+  "pid": 29510,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:37:03.712Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 29510,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:37:03.714Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 29510,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:37:03.714Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 29510,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:37:03.882Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "statusCode": 200,
+  "studentId": "RU00001",
+  "studentFound": true,
+  "pid": 29510,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:37:03.890Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/scan/payment/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 29510,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:37:03.890Z",
+  "level": "INFO",
+  "message": "PaymentService: Fetching payment data",
+  "studentId": "RU00001",
+  "pid": 29510,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:37:04.029Z",
+  "level": "INFO",
+  "message": "PaymentService: Payment data fetched successfully",
+  "studentId": "RU00001",
+  "dueAmount": 384067,
+  "pid": 29510,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:39:43.171Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.3.0",
+  "pid": 37969,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:39:52.194Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.3.0",
+  "pid": 38205,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:40:01.668Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.3.0",
+  "pid": 38481,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:40:10.751Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.3.0",
+  "pid": 38710,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:41:33.115Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.3.0",
+  "pid": 40455,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:46:03.192Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.3.0",
+  "pid": 46072,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:46:03.774Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.3.0",
+  "pid": 46121,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:46:12.301Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.3.0",
+  "pid": 46349,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:47:19.403Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.3.0",
+  "pid": 47781,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:47:42.623Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.3.0",
+  "pid": 48311,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:47:56.997Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.3.0",
+  "pid": 48635,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:49:30.640Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.3.0",
+  "pid": 50579,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:49:54.793Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.3.0",
+  "pid": 51156,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:50:08.068Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.3.0",
+  "pid": 51482,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:50:37.997Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.3.0",
+  "pid": 52139,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:51:12.040Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "POST",
+  "path": "/api/scan/arrival",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "body": {
+    "studentId": "RU00001",
+    "volunteerName": "Aditya Kumar"
+  },
+  "query": {},
+  "params": {},
+  "pid": 52139,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:51:12.042Z",
+  "level": "INFO",
+  "message": "Scan Started",
+  "type": "scan_start",
+  "stage": "arrival",
+  "studentId": "RU00001",
+  "volunteerName": "Aditya Kumar",
+  "pid": 52139,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:51:12.042Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "POST",
+  "path": "/api/scan/arrival",
+  "studentId": "RU00001",
+  "volunteerName": "Aditya Kumar",
+  "pid": 52139,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:51:12.042Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 52139,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:51:12.678Z",
+  "level": "INFO",
+  "message": "PaymentService: Fetching payment data",
+  "studentId": "RU00001",
+  "pid": 52139,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:51:12.837Z",
+  "level": "INFO",
+  "message": "PaymentService: Payment data fetched successfully",
+  "studentId": "RU00001",
+  "dueAmount": 384067,
+  "pid": 52139,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:51:12.837Z",
+  "level": "WARN",
+  "message": "Student already arrived",
+  "studentId": "RU00001",
+  "arrivalTime": "2025-08-07T15:18:11.017Z",
+  "previouslyVerifiedBy": "Yash Lunawat",
+  "pid": 52139,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:51:12.837Z",
+  "level": "ERROR",
+  "message": "Scan Error",
+  "type": "scan_error",
+  "stage": "arrival",
+  "studentId": "RU00001",
+  "error": "Already arrived",
+  "volunteerName": "Aditya Kumar",
+  "pid": 52139,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:51:12.838Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "POST",
+  "path": "/api/scan/arrival",
+  "statusCode": 409,
+  "studentId": "RU00001",
+  "error": "Already arrived",
+  "arrivalTime": "2025-08-07T15:18:11.017Z",
+  "pid": 52139,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:51:55.794Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 52139,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:51:55.796Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 52139,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:51:55.796Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 52139,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:51:55.991Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "statusCode": 200,
+  "studentId": "RU00001",
+  "studentFound": true,
+  "pid": 52139,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:51:55.999Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/scan/payment/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 52139,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:51:55.999Z",
+  "level": "INFO",
+  "message": "PaymentService: Fetching payment data",
+  "studentId": "RU00001",
+  "pid": 52139,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:51:56.114Z",
+  "level": "INFO",
+  "message": "PaymentService: Payment data fetched successfully",
+  "studentId": "RU00001",
+  "dueAmount": 384067,
+  "pid": 52139,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:52:00.000Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "POST",
+  "path": "/api/scan/arrival",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "body": {
+    "studentId": "RU00001",
+    "volunteerName": "Aditya Kumar"
+  },
+  "query": {},
+  "params": {},
+  "pid": 52139,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:52:00.001Z",
+  "level": "INFO",
+  "message": "Scan Started",
+  "type": "scan_start",
+  "stage": "arrival",
+  "studentId": "RU00001",
+  "volunteerName": "Aditya Kumar",
+  "pid": 52139,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:52:00.001Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "POST",
+  "path": "/api/scan/arrival",
+  "studentId": "RU00001",
+  "volunteerName": "Aditya Kumar",
+  "pid": 52139,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:52:00.002Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 52139,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:52:00.185Z",
+  "level": "INFO",
+  "message": "PaymentService: Fetching payment data",
+  "studentId": "RU00001",
+  "pid": 52139,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:52:00.230Z",
+  "level": "INFO",
+  "message": "PaymentService: Payment data fetched successfully",
+  "studentId": "RU00001",
+  "dueAmount": 384067,
+  "pid": 52139,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:52:00.231Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "UPDATE",
+  "table": "students",
+  "studentId": "RU00001",
+  "fields": [
+    "arrival",
+    "arrivalVerifiedBy",
+    "arrivalTime"
+  ],
+  "pid": 52139,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:52:00.328Z",
+  "level": "INFO",
+  "message": "Scan Successful",
+  "type": "scan_success",
+  "stage": "arrival",
+  "studentId": "RU00001",
+  "volunteerName": "Aditya Kumar",
+  "arrivalTime": "2025-08-07T20:52:00.231Z",
+  "pid": 52139,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:52:00.328Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "POST",
+  "path": "/api/scan/arrival",
+  "statusCode": 200,
+  "studentId": "RU00001",
+  "volunteerName": "Aditya Kumar",
+  "arrivalTime": "2025-08-07T20:52:00.231Z",
+  "pid": 52139,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:52:00.329Z",
+  "level": "WARN",
+  "message": "SMSService: SMS_API_KEY not configured, skipping SMS",
+  "pid": 52139,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:52:00.329Z",
+  "level": "WARN",
+  "message": "Failed to send arrival SMS",
+  "studentId": "RU00001",
+  "error": "SMS API not configured",
+  "pid": 52139,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:52:21.415Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "POST",
+  "path": "/api/scan/arrival/visitors",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "body": {
+    "studentId": "RU00001",
+    "visitorCount": 10
+  },
+  "query": {},
+  "params": {},
+  "pid": 52139,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:52:21.417Z",
+  "level": "INFO",
+  "message": "Updating visitor count",
+  "studentId": "RU00001",
+  "visitorCount": 10,
+  "pid": 52139,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:52:21.417Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "POST",
+  "path": "/api/scan/arrival/visitors",
+  "studentId": "RU00001",
+  "visitorCount": 10,
+  "pid": 52139,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:52:21.418Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 52139,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:52:21.677Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "UPDATE",
+  "table": "students",
+  "studentId": "RU00001",
+  "fields": [
+    "visitorCount"
+  ],
+  "pid": 52139,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:52:21.792Z",
+  "level": "INFO",
+  "message": "Visitor count updated successfully",
+  "studentId": "RU00001",
+  "visitorCount": 10,
+  "updatedAt": "2025-08-07T20:52:21.677Z",
+  "pid": 52139,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:52:21.793Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "POST",
+  "path": "/api/scan/arrival/visitors",
+  "statusCode": 200,
+  "studentId": "RU00001",
+  "visitorCount": 10,
+  "updatedAt": "2025-08-07T20:52:21.677Z",
+  "pid": 52139,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:54:04.912Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.3.0",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:54:28.501Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:54:28.502Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:54:28.503Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:54:29.007Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "statusCode": 200,
+  "studentId": "RU00001",
+  "studentFound": true,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:54:29.018Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/scan/payment/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:54:29.019Z",
+  "level": "INFO",
+  "message": "PaymentService: Fetching payment data",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:54:29.166Z",
+  "level": "INFO",
+  "message": "PaymentService: Payment data fetched successfully",
+  "studentId": "RU00001",
+  "dueAmount": 384067,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:54:30.971Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "POST",
+  "path": "/api/scan/arrival",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "body": {
+    "studentId": "RU00001",
+    "volunteerName": "Aditya Kumar"
+  },
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:54:30.972Z",
+  "level": "INFO",
+  "message": "Scan Started",
+  "type": "scan_start",
+  "stage": "arrival",
+  "studentId": "RU00001",
+  "volunteerName": "Aditya Kumar",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:54:30.972Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "POST",
+  "path": "/api/scan/arrival",
+  "studentId": "RU00001",
+  "volunteerName": "Aditya Kumar",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:54:30.972Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:54:31.040Z",
+  "level": "INFO",
+  "message": "PaymentService: Fetching payment data",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:54:31.082Z",
+  "level": "INFO",
+  "message": "PaymentService: Payment data fetched successfully",
+  "studentId": "RU00001",
+  "dueAmount": 384067,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:54:31.083Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "UPDATE",
+  "table": "students",
+  "studentId": "RU00001",
+  "fields": [
+    "arrival",
+    "arrivalVerifiedBy",
+    "arrivalTime"
+  ],
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:54:31.195Z",
+  "level": "INFO",
+  "message": "Scan Successful",
+  "type": "scan_success",
+  "stage": "arrival",
+  "studentId": "RU00001",
+  "volunteerName": "Aditya Kumar",
+  "arrivalTime": "2025-08-07T20:54:31.083Z",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:54:31.195Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "POST",
+  "path": "/api/scan/arrival",
+  "statusCode": 200,
+  "studentId": "RU00001",
+  "volunteerName": "Aditya Kumar",
+  "arrivalTime": "2025-08-07T20:54:31.083Z",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:54:31.196Z",
+  "level": "INFO",
+  "message": "SMSService: Sending SMS",
+  "slug": "arrival",
+  "data": {
+    "studentId": "RU00001"
+  },
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:54:31.242Z",
+  "level": "ERROR",
+  "message": "SMSService: API error",
+  "slug": "arrival",
+  "status": 404,
+  "statusText": "Not Found",
+  "data": {
+    "error": "Student not found."
+  },
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:54:31.243Z",
+  "level": "WARN",
+  "message": "Failed to send arrival SMS",
+  "studentId": "RU00001",
+  "error": "SMS API error: 404 - Not Found",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:54:34.098Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "POST",
+  "path": "/api/scan/arrival/visitors",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "body": {
+    "studentId": "RU00001",
+    "visitorCount": 10
+  },
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:54:34.100Z",
+  "level": "INFO",
+  "message": "Updating visitor count",
+  "studentId": "RU00001",
+  "visitorCount": 10,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:54:34.100Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "POST",
+  "path": "/api/scan/arrival/visitors",
+  "studentId": "RU00001",
+  "visitorCount": 10,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:54:34.100Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:54:34.169Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "UPDATE",
+  "table": "students",
+  "studentId": "RU00001",
+  "fields": [
+    "visitorCount"
+  ],
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:54:34.271Z",
+  "level": "INFO",
+  "message": "Visitor count updated successfully",
+  "studentId": "RU00001",
+  "visitorCount": 10,
+  "updatedAt": "2025-08-07T20:54:34.169Z",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:54:34.271Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "POST",
+  "path": "/api/scan/arrival/visitors",
+  "statusCode": 200,
+  "studentId": "RU00001",
+  "visitorCount": 10,
+  "updatedAt": "2025-08-07T20:54:34.169Z",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:56:45.094Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:56:45.096Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:56:45.096Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:56:45.541Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T20:56:45.542Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:00:07.988Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/2401010105",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:00:07.990Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/2401010105",
+  "studentId": "2401010105",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:00:07.990Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "2401010105",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:00:08.446Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/student/2401010105",
+  "statusCode": 200,
+  "studentId": "2401010105",
+  "studentFound": true,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:00:08.451Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/scan/payment/2401010105",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:00:08.452Z",
+  "level": "INFO",
+  "message": "PaymentService: Fetching payment data",
+  "studentId": "2401010105",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:00:08.616Z",
+  "level": "ERROR",
+  "message": "PaymentService: API error",
+  "studentId": "2401010105",
+  "status": 404,
+  "statusText": "Not Found",
+  "data": {
+    "error": "Student fees not found"
+  },
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:00:09.220Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/2401010105",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:00:09.220Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/2401010105",
+  "studentId": "2401010105",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:00:09.220Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "2401010105",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:00:09.279Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/student/2401010105",
+  "statusCode": 200,
+  "studentId": "2401010105",
+  "studentFound": true,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:00:09.283Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/scan/payment/2401010105",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:00:09.284Z",
+  "level": "INFO",
+  "message": "PaymentService: Fetching payment data",
+  "studentId": "2401010105",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:00:09.323Z",
+  "level": "ERROR",
+  "message": "PaymentService: API error",
+  "studentId": "2401010105",
+  "status": 404,
+  "statusText": "Not Found",
+  "data": {
+    "error": "Student fees not found"
+  },
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:00:11.287Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/2401010105",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:00:11.288Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/2401010105",
+  "studentId": "2401010105",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:00:11.288Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "2401010105",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:00:11.403Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/student/2401010105",
+  "statusCode": 200,
+  "studentId": "2401010105",
+  "studentFound": true,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:00:11.408Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/scan/payment/2401010105",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:00:11.409Z",
+  "level": "INFO",
+  "message": "PaymentService: Fetching payment data",
+  "studentId": "2401010105",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:00:11.456Z",
+  "level": "ERROR",
+  "message": "PaymentService: API error",
+  "studentId": "2401010105",
+  "status": 404,
+  "statusText": "Not Found",
+  "data": {
+    "error": "Student fees not found"
+  },
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:00:17.938Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "POST",
+  "path": "/api/scan/arrival",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "body": {
+    "studentId": "2401010105",
+    "volunteerName": "Aditya Kumar"
+  },
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:00:17.939Z",
+  "level": "INFO",
+  "message": "Scan Started",
+  "type": "scan_start",
+  "stage": "arrival",
+  "studentId": "2401010105",
+  "volunteerName": "Aditya Kumar",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:00:17.940Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "POST",
+  "path": "/api/scan/arrival",
+  "studentId": "2401010105",
+  "volunteerName": "Aditya Kumar",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:00:17.940Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "2401010105",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:00:18.100Z",
+  "level": "INFO",
+  "message": "PaymentService: Fetching payment data",
+  "studentId": "2401010105",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:00:18.219Z",
+  "level": "ERROR",
+  "message": "PaymentService: API error",
+  "studentId": "2401010105",
+  "status": 404,
+  "statusText": "Not Found",
+  "data": {
+    "error": "Student fees not found"
+  },
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:00:18.220Z",
+  "level": "ERROR",
+  "message": "Failed to fetch payment data",
+  "studentId": "2401010105",
+  "error": "Payment API error: 404 - Not Found",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:00:18.220Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "UPDATE",
+  "table": "students",
+  "studentId": "2401010105",
+  "fields": [
+    "arrival",
+    "arrivalVerifiedBy",
+    "arrivalTime"
+  ],
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:00:18.292Z",
+  "level": "INFO",
+  "message": "Scan Successful",
+  "type": "scan_success",
+  "stage": "arrival",
+  "studentId": "2401010105",
+  "volunteerName": "Aditya Kumar",
+  "arrivalTime": "2025-08-07T21:00:18.220Z",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:00:18.293Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "POST",
+  "path": "/api/scan/arrival",
+  "statusCode": 200,
+  "studentId": "2401010105",
+  "volunteerName": "Aditya Kumar",
+  "arrivalTime": "2025-08-07T21:00:18.220Z",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:00:18.293Z",
+  "level": "INFO",
+  "message": "SMSService: Sending SMS",
+  "slug": "arrival",
+  "data": {
+    "studentId": "2401010105"
+  },
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:00:18.374Z",
+  "level": "INFO",
+  "message": "SMSService: SMS sent successfully",
+  "slug": "arrival",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:00:18.374Z",
+  "level": "INFO",
+  "message": "Arrival SMS sent successfully",
+  "studentId": "2401010105",
+  "messageId": "SMS_SENT",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:00:21.650Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "POST",
+  "path": "/api/scan/arrival/visitors",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "body": {
+    "studentId": "2401010105",
+    "visitorCount": 10
+  },
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:00:21.652Z",
+  "level": "INFO",
+  "message": "Updating visitor count",
+  "studentId": "2401010105",
+  "visitorCount": 10,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:00:21.653Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "POST",
+  "path": "/api/scan/arrival/visitors",
+  "studentId": "2401010105",
+  "visitorCount": 10,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:00:21.653Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "2401010105",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:00:21.712Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "UPDATE",
+  "table": "students",
+  "studentId": "2401010105",
+  "fields": [
+    "visitorCount"
+  ],
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:00:21.788Z",
+  "level": "INFO",
+  "message": "Visitor count updated successfully",
+  "studentId": "2401010105",
+  "visitorCount": 10,
+  "updatedAt": "2025-08-07T21:00:21.712Z",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:00:21.789Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "POST",
+  "path": "/api/scan/arrival/visitors",
+  "statusCode": 200,
+  "studentId": "2401010105",
+  "visitorCount": 10,
+  "updatedAt": "2025-08-07T21:00:21.712Z",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:02:49.583Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/2401010105",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:02:49.586Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/2401010105",
+  "studentId": "2401010105",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:02:49.586Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "2401010105",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:02:50.131Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/student/2401010105",
+  "statusCode": 200,
+  "studentId": "2401010105",
+  "studentFound": true,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:02:52.617Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "POST",
+  "path": "/api/scan/hostel",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "body": {
+    "studentId": "2401010105",
+    "volunteerName": "Aditya Kumar"
+  },
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:02:52.623Z",
+  "level": "INFO",
+  "message": "Hostel scan request",
+  "studentId": "2401010105",
+  "volunteerName": "Aditya Kumar",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:02:52.804Z",
+  "level": "INFO",
+  "message": "Hostel scan successful",
+  "studentId": "2401010105",
+  "volunteerName": "Aditya Kumar",
+  "hostelVerifiedTime": "2025-08-07T21:02:52.737Z",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:02:52.804Z",
+  "level": "INFO",
+  "message": "SMSService: Sending SMS",
+  "slug": "hostel",
+  "data": {
+    "studentId": "2401010105"
+  },
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:02:53.015Z",
+  "level": "INFO",
+  "message": "SMSService: SMS sent successfully",
+  "slug": "hostel",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:02:53.016Z",
+  "level": "INFO",
+  "message": "Hostel verification SMS sent successfully",
+  "studentId": "2401010105",
+  "messageId": "SMS_SENT",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:04:11.673Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/2401010105",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:04:11.675Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/2401010105",
+  "studentId": "2401010105",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:04:11.676Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "2401010105",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:04:11.863Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/student/2401010105",
+  "statusCode": 200,
+  "studentId": "2401010105",
+  "studentFound": true,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:04:14.641Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "POST",
+  "path": "/api/scan/documents",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "body": {
+    "studentId": "2401010105",
+    "volunteerName": "Aditya Kumar"
+  },
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:04:14.647Z",
+  "level": "INFO",
+  "message": "Document scan request",
+  "studentId": "2401010105",
+  "volunteerName": "Aditya Kumar",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:04:14.843Z",
+  "level": "INFO",
+  "message": "Document scan successful",
+  "studentId": "2401010105",
+  "volunteerName": "Aditya Kumar",
+  "documentsVerifiedTime": "2025-08-07T21:04:14.748Z",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:04:14.843Z",
+  "level": "INFO",
+  "message": "SMSService: Sending SMS",
+  "slug": "document",
+  "data": {
+    "studentId": "2401010105"
+  },
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:04:15.072Z",
+  "level": "INFO",
+  "message": "SMSService: SMS sent successfully",
+  "slug": "document",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:04:15.072Z",
+  "level": "INFO",
+  "message": "Documents verification SMS sent successfully",
+  "studentId": "2401010105",
+  "messageId": "SMS_SENT",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:01.962Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/2401010105",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:01.965Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/2401010105",
+  "studentId": "2401010105",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:01.966Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "2401010105",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:02.469Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/student/2401010105",
+  "statusCode": 200,
+  "studentId": "2401010105",
+  "studentFound": true,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:02.482Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/scan/payment/2401010105",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:02.483Z",
+  "level": "INFO",
+  "message": "PaymentService: Fetching payment data",
+  "studentId": "2401010105",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:02.647Z",
+  "level": "ERROR",
+  "message": "PaymentService: API error",
+  "studentId": "2401010105",
+  "status": 404,
+  "statusText": "Not Found",
+  "data": {
+    "error": "Student fees not found"
+  },
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:25.423Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:25.424Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:25.424Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:25.558Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:25.559Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:27.883Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:27.884Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:27.884Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:27.954Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:27.955Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:28.492Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:28.493Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:28.493Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:28.598Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:28.599Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:28.996Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:28.996Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:28.997Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:29.085Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:29.085Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:29.118Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:29.119Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:29.119Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:29.170Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:29.171Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:29.502Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:29.503Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:29.503Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:29.566Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:29.566Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:29.637Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:29.638Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:29.641Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:29.709Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:29.709Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:29.750Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:29.750Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:29.750Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:29.815Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:29.815Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:30.166Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:30.166Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:30.166Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:30.229Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:30.229Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:30.274Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:30.275Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:30.275Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:30.342Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:30.342Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:30.395Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:30.395Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:30.395Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:30.455Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:30.455Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:30.529Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:30.529Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:30.529Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:30.589Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:30.589Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:30.650Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:30.650Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:30.650Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:30.717Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:30.717Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:30.769Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:30.770Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:30.770Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:30.828Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:30.828Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:30.884Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:30.884Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:30.884Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:30.942Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:30.942Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:31.002Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:31.002Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:31.003Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:31.052Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:31.052Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:31.135Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:31.137Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:31.138Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:31.198Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:31.198Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:31.248Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:31.248Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:31.248Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:31.315Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:31.315Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:31.366Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:31.366Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:31.366Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:31.429Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:31.429Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:31.484Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:31.485Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:31.485Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:31.550Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:31.551Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:31.609Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:31.609Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:31.610Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:31.683Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:31.684Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:31.725Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:31.726Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:31.726Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:31.777Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:31.777Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:31.851Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:31.851Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:31.851Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:31.911Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:31.912Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:31.966Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:31.966Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:31.966Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:32.019Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:32.020Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:32.088Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:32.088Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:32.088Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:32.144Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:32.145Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:32.213Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:32.213Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:32.213Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:32.289Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:32.289Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:32.339Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:32.339Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:32.339Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:32.393Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:32.394Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:32.463Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:32.463Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:32.463Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:32.527Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:32.527Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:32.582Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:32.583Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:32.583Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:32.648Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:32.649Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:32.703Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:32.703Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:32.704Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:32.769Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:32.769Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:32.830Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:32.830Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:32.830Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:32.881Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:32.881Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:32.955Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:32.955Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:32.955Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:33.024Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:33.024Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:33.069Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:33.069Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:33.069Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:33.128Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:33.128Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:33.191Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:33.191Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:33.191Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:33.249Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:33.249Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:33.326Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:33.326Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:33.326Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:33.386Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:33.386Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:33.451Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:33.452Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:33.452Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:33.507Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:33.507Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:33.568Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:33.569Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:33.569Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:33.628Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:33.628Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:33.690Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:33.690Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:33.690Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:33.743Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:33.744Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:38.684Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:38.685Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:38.686Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:38.829Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:38.829Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:39.789Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:39.795Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:39.795Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:39.861Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:39.861Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:40.382Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:40.383Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:40.383Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:40.444Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:40.444Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:40.859Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:40.860Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:40.860Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:40.918Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:40.918Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:40.993Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:40.994Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:40.994Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:41.055Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:41.055Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:41.477Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:41.477Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:41.478Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:41.557Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:41.558Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:41.597Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:41.597Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:41.597Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:41.661Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:41.661Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:41.963Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:41.965Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:41.965Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:42.032Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:42.032Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:42.077Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:42.078Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:42.078Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:42.130Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:42.131Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:42.201Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:42.202Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:42.202Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:42.257Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:42.257Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:42.572Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:42.572Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:42.572Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:42.634Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:42.635Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:42.692Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:42.692Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:42.693Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:42.750Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:42.750Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:42.812Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:42.812Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:42.812Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:42.873Z",
+  "level": "ERROR",
+  "message": "Database Error",
+  "type": "db_error",
+  "operation": "SELECT",
+  "table": "students",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:42.873Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.058Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.059Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.059Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.176Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "statusCode": 200,
+  "studentId": "RU00001",
+  "studentFound": true,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.179Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.179Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.179Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.184Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/scan/payment/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.184Z",
+  "level": "INFO",
+  "message": "PaymentService: Fetching payment data",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.246Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "statusCode": 200,
+  "studentId": "RU00001",
+  "studentFound": true,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.297Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.297Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.297Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.353Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "statusCode": 200,
+  "studentId": "RU00001",
+  "studentFound": true,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.425Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.425Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.425Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.427Z",
+  "level": "INFO",
+  "message": "PaymentService: Payment data fetched successfully",
+  "studentId": "RU00001",
+  "dueAmount": 384067,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.428Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/scan/payment/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.429Z",
+  "level": "INFO",
+  "message": "PaymentService: Fetching payment data",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.478Z",
+  "level": "INFO",
+  "message": "PaymentService: Payment data fetched successfully",
+  "studentId": "RU00001",
+  "dueAmount": 384067,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.479Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "statusCode": 200,
+  "studentId": "RU00001",
+  "studentFound": true,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.480Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/scan/payment/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.481Z",
+  "level": "INFO",
+  "message": "PaymentService: Fetching payment data",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.528Z",
+  "level": "INFO",
+  "message": "PaymentService: Payment data fetched successfully",
+  "studentId": "RU00001",
+  "dueAmount": 384067,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.532Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/scan/payment/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.533Z",
+  "level": "INFO",
+  "message": "PaymentService: Fetching payment data",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.585Z",
+  "level": "INFO",
+  "message": "PaymentService: Payment data fetched successfully",
+  "studentId": "RU00001",
+  "dueAmount": 384067,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.665Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.665Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.665Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.729Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "statusCode": 200,
+  "studentId": "RU00001",
+  "studentFound": true,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.732Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/scan/payment/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.732Z",
+  "level": "INFO",
+  "message": "PaymentService: Fetching payment data",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.777Z",
+  "level": "INFO",
+  "message": "PaymentService: Payment data fetched successfully",
+  "studentId": "RU00001",
+  "dueAmount": 384067,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.793Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.794Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.794Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.850Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "statusCode": 200,
+  "studentId": "RU00001",
+  "studentFound": true,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.854Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/scan/payment/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.854Z",
+  "level": "INFO",
+  "message": "PaymentService: Fetching payment data",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.909Z",
+  "level": "INFO",
+  "message": "PaymentService: Payment data fetched successfully",
+  "studentId": "RU00001",
+  "dueAmount": 384067,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.911Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.911Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.911Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.970Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "statusCode": 200,
+  "studentId": "RU00001",
+  "studentFound": true,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.974Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/scan/payment/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:43.974Z",
+  "level": "INFO",
+  "message": "PaymentService: Fetching payment data",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:44.029Z",
+  "level": "INFO",
+  "message": "PaymentService: Payment data fetched successfully",
+  "studentId": "RU00001",
+  "dueAmount": 384067,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:44.049Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:44.049Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:44.049Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:44.097Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "statusCode": 200,
+  "studentId": "RU00001",
+  "studentFound": true,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:44.101Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/scan/payment/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:44.102Z",
+  "level": "INFO",
+  "message": "PaymentService: Fetching payment data",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:44.171Z",
+  "level": "INFO",
+  "message": "PaymentService: Payment data fetched successfully",
+  "studentId": "RU00001",
+  "dueAmount": 384067,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:44.897Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:44.898Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:44.898Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:44.968Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "statusCode": 200,
+  "studentId": "RU00001",
+  "studentFound": true,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:44.972Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/scan/payment/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:44.973Z",
+  "level": "INFO",
+  "message": "PaymentService: Fetching payment data",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:45.015Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:45.015Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:45.015Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:45.025Z",
+  "level": "INFO",
+  "message": "PaymentService: Payment data fetched successfully",
+  "studentId": "RU00001",
+  "dueAmount": 384067,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:45.068Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "statusCode": 200,
+  "studentId": "RU00001",
+  "studentFound": true,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:45.072Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/scan/payment/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:45.072Z",
+  "level": "INFO",
+  "message": "PaymentService: Fetching payment data",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:45.116Z",
+  "level": "INFO",
+  "message": "PaymentService: Payment data fetched successfully",
+  "studentId": "RU00001",
+  "dueAmount": 384067,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:45.133Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:45.134Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:45.134Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:45.191Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "statusCode": 200,
+  "studentId": "RU00001",
+  "studentFound": true,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:45.196Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/scan/payment/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:45.197Z",
+  "level": "INFO",
+  "message": "PaymentService: Fetching payment data",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:45.242Z",
+  "level": "INFO",
+  "message": "PaymentService: Payment data fetched successfully",
+  "studentId": "RU00001",
+  "dueAmount": 384067,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:47.164Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:47.165Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:47.166Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:47.243Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "statusCode": 200,
+  "studentId": "RU00001",
+  "studentFound": true,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:47.255Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/scan/payment/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:47.256Z",
+  "level": "INFO",
+  "message": "PaymentService: Fetching payment data",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:47.300Z",
+  "level": "INFO",
+  "message": "PaymentService: Payment data fetched successfully",
+  "studentId": "RU00001",
+  "dueAmount": 384067,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:48.032Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:48.033Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:48.033Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:48.113Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "statusCode": 200,
+  "studentId": "RU00001",
+  "studentFound": true,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:48.134Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/scan/payment/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:48.135Z",
+  "level": "INFO",
+  "message": "PaymentService: Fetching payment data",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:06:48.184Z",
+  "level": "INFO",
+  "message": "PaymentService: Payment data fetched successfully",
+  "studentId": "RU00001",
+  "dueAmount": 384067,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:07:09.234Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:07:09.235Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:07:09.236Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:07:09.348Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "statusCode": 200,
+  "studentId": "RU00001",
+  "studentFound": true,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:07:09.356Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/scan/payment/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:07:09.357Z",
+  "level": "INFO",
+  "message": "PaymentService: Fetching payment data",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:07:09.484Z",
+  "level": "INFO",
+  "message": "PaymentService: Payment data fetched successfully",
+  "studentId": "RU00001",
+  "dueAmount": 384067,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:07:36.485Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:07:36.488Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:07:36.488Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:07:36.608Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "statusCode": 200,
+  "studentId": "RU00001",
+  "studentFound": true,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:09:26.547Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:09:26.549Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:09:26.550Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:09:27.435Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "statusCode": 200,
+  "studentId": "RU00001",
+  "studentFound": true,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:09:35.662Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:09:35.662Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:09:35.662Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:09:35.788Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "statusCode": 200,
+  "studentId": "RU00001",
+  "studentFound": true,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:11:11.296Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:11:11.299Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:11:11.300Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:11:11.717Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "statusCode": 200,
+  "studentId": "RU00001",
+  "studentFound": true,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:11:32.319Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:11:32.322Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:11:32.322Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:11:32.464Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "statusCode": 200,
+  "studentId": "RU00001",
+  "studentFound": true,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:12:51.510Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:12:51.512Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:12:51.512Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:12:51.737Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "statusCode": 200,
+  "studentId": "RU00001",
+  "studentFound": true,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:14:45.272Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:14:45.277Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:14:45.278Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:14:45.684Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "statusCode": 200,
+  "studentId": "RU00001",
+  "studentFound": true,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:14:45.693Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/scan/payment/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:14:45.694Z",
+  "level": "INFO",
+  "message": "PaymentService: Fetching payment data",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:14:45.956Z",
+  "level": "INFO",
+  "message": "PaymentService: Payment data fetched successfully",
+  "studentId": "RU00001",
+  "dueAmount": 384067,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:14:53.676Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:14:53.677Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:14:53.677Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:14:53.803Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "statusCode": 200,
+  "studentId": "RU00001",
+  "studentFound": true,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:14:53.847Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/scan/payment/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:14:53.848Z",
+  "level": "INFO",
+  "message": "PaymentService: Fetching payment data",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:14:53.980Z",
+  "level": "INFO",
+  "message": "PaymentService: Payment data fetched successfully",
+  "studentId": "RU00001",
+  "dueAmount": 384067,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:15:05.074Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:15:05.075Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:15:05.075Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:15:05.185Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "statusCode": 200,
+  "studentId": "RU00001",
+  "studentFound": true,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:15:05.196Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/scan/payment/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:15:05.196Z",
+  "level": "INFO",
+  "message": "PaymentService: Fetching payment data",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:15:05.311Z",
+  "level": "INFO",
+  "message": "PaymentService: Payment data fetched successfully",
+  "studentId": "RU00001",
+  "dueAmount": 384067,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:15:23.916Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:15:23.917Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:15:23.917Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:15:24.035Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "statusCode": 200,
+  "studentId": "RU00001",
+  "studentFound": true,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:15:24.040Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/scan/payment/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:15:24.040Z",
+  "level": "INFO",
+  "message": "PaymentService: Fetching payment data",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:15:24.152Z",
+  "level": "INFO",
+  "message": "PaymentService: Payment data fetched successfully",
+  "studentId": "RU00001",
+  "dueAmount": 384067,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:15:31.549Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:15:31.552Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:15:31.552Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:15:31.668Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "statusCode": 200,
+  "studentId": "RU00001",
+  "studentFound": true,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:15:31.677Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/scan/payment/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:15:31.677Z",
+  "level": "INFO",
+  "message": "PaymentService: Fetching payment data",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:15:31.802Z",
+  "level": "INFO",
+  "message": "PaymentService: Payment data fetched successfully",
+  "studentId": "RU00001",
+  "dueAmount": 384067,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:15:48.191Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:15:48.192Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:15:48.193Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:15:48.307Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "statusCode": 200,
+  "studentId": "RU00001",
+  "studentFound": true,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:15:48.312Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/scan/payment/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:15:48.313Z",
+  "level": "INFO",
+  "message": "PaymentService: Fetching payment data",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:15:48.442Z",
+  "level": "INFO",
+  "message": "PaymentService: Payment data fetched successfully",
+  "studentId": "RU00001",
+  "dueAmount": 384067,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:15:59.967Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:15:59.971Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:15:59.971Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:16:00.097Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "statusCode": 200,
+  "studentId": "RU00001",
+  "studentFound": true,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:16:00.114Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/scan/payment/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:16:00.115Z",
+  "level": "INFO",
+  "message": "PaymentService: Fetching payment data",
+  "studentId": "RU00001",
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-07T21:16:00.296Z",
+  "level": "INFO",
+  "message": "PaymentService: Payment data fetched successfully",
+  "studentId": "RU00001",
+  "dueAmount": 384067,
+  "pid": 56420,
+  "service": "deskbuddy-backend"
+}
