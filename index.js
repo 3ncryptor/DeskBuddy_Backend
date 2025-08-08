@@ -26,6 +26,7 @@ app.use((req, res, next) => {
 app.use("/api/student", require("./routes/student"));
 app.use("/api/scan", require("./routes/scan"));
 app.use("/api/email", require("./routes/email"));
+app.use("/api/analytics", require("./routes/analytics"));
 
 app.get("/", (req, res) => {
   logger.api.response("GET", "/", 200, { message: "Health check" });

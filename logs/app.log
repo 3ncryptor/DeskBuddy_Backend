@@ -72807,3 +72807,1785 @@
   "pid": 56420,
   "service": "deskbuddy-backend"
 }
+{
+  "timestamp": "2025-08-08T17:22:38.337Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.7.0",
+  "pid": 46648,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:23:02.111Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/",
+  "ip": "::1",
+  "userAgent": "curl/8.7.1",
+  "query": {},
+  "params": {},
+  "pid": 46648,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:23:02.113Z",
+  "level": "INFO",
+  "message": "Health check",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/",
+  "statusCode": 200,
+  "pid": 46648,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:23:06.834Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/summary",
+  "ip": "::1",
+  "userAgent": "curl/8.7.1",
+  "query": {},
+  "params": {},
+  "pid": 46648,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:23:06.835Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/summary",
+  "pid": 46648,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:23:07.555Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/analytics/summary",
+  "statusCode": 200,
+  "totalStudents": 880,
+  "totalScans": 930,
+  "uniqueVolunteers": 25,
+  "pid": 46648,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:23:17.322Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/peak-hours",
+  "ip": "::1",
+  "userAgent": "curl/8.7.1",
+  "query": {},
+  "params": {},
+  "pid": 46648,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:23:17.324Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/peak-hours",
+  "pid": 46648,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:23:17.588Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/analytics/peak-hours",
+  "statusCode": 200,
+  "totalScans": null,
+  "peakHour": null,
+  "pid": 46648,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:23:30.537Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.7.0",
+  "pid": 47974,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:23:37.692Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/peak-hours",
+  "ip": "::1",
+  "userAgent": "curl/8.7.1",
+  "query": {},
+  "params": {},
+  "pid": 47974,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:23:37.693Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/peak-hours",
+  "pid": 47974,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:23:37.976Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/analytics/peak-hours",
+  "statusCode": 200,
+  "totalScans": null,
+  "peakHour": 15,
+  "pid": 47974,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:23:43.013Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.7.0",
+  "pid": 48199,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:23:52.372Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/volunteer-stats",
+  "ip": "::1",
+  "userAgent": "curl/8.7.1",
+  "query": {},
+  "params": {},
+  "pid": 48199,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:23:52.374Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/volunteer-stats",
+  "pid": 48199,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:23:52.592Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/analytics/volunteer-stats",
+  "statusCode": 200,
+  "totalVolunteers": 24,
+  "totalScans": 930,
+  "pid": 48199,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:23:57.046Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/student-journey",
+  "ip": "::1",
+  "userAgent": "curl/8.7.1",
+  "query": {},
+  "params": {},
+  "pid": 48199,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:23:57.047Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/student-journey",
+  "pid": 48199,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:23:57.301Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/analytics/student-journey",
+  "statusCode": 200,
+  "count": 880,
+  "pid": 48199,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:24:01.079Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/student-journey/2501010002",
+  "ip": "::1",
+  "userAgent": "curl/8.7.1",
+  "query": {},
+  "params": {},
+  "pid": 48199,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:24:01.080Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/student-journey/2501010002",
+  "studentId": "2501010002",
+  "pid": 48199,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:24:01.224Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/analytics/student-journey/2501010002",
+  "statusCode": 200,
+  "studentId": "2501010002",
+  "currentStage": "Documents",
+  "pid": 48199,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:24:05.386Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/peak-hours",
+  "ip": "::1",
+  "userAgent": "curl/8.7.1",
+  "query": {},
+  "params": {},
+  "pid": 48199,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:24:05.387Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/peak-hours",
+  "pid": 48199,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:24:05.521Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/analytics/peak-hours",
+  "statusCode": 200,
+  "totalScans": null,
+  "peakHour": 15,
+  "pid": 48199,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:24:09.310Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.7.0",
+  "pid": 49016,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:24:16.339Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/peak-hours",
+  "ip": "::1",
+  "userAgent": "curl/8.7.1",
+  "query": {},
+  "params": {},
+  "pid": 49016,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:24:16.341Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/peak-hours",
+  "pid": 49016,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:24:16.508Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/analytics/peak-hours",
+  "statusCode": 200,
+  "totalScans": null,
+  "peakHour": 15,
+  "pid": 49016,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:24:20.982Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/peak-hours",
+  "ip": "::1",
+  "userAgent": "curl/8.7.1",
+  "query": {},
+  "params": {},
+  "pid": 49016,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:24:20.983Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/peak-hours",
+  "pid": 49016,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:24:21.176Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/analytics/peak-hours",
+  "statusCode": 200,
+  "totalScans": null,
+  "peakHour": 15,
+  "pid": 49016,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:24:25.532Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.7.0",
+  "pid": 49468,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:24:44.607Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.7.0",
+  "pid": 49575,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:28:23.036Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.7.0",
+  "pid": 49979,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:28:36.053Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/peak-hours",
+  "ip": "::1",
+  "userAgent": "curl/8.7.1",
+  "query": {},
+  "params": {},
+  "pid": 49979,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:28:36.055Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/peak-hours",
+  "pid": 49979,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:28:36.308Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/analytics/peak-hours",
+  "statusCode": 200,
+  "totalStudents": 929,
+  "overallPeakHour": 15,
+  "pid": 49979,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:28:42.165Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/peak-hours",
+  "ip": "::1",
+  "userAgent": "curl/8.7.1",
+  "query": {},
+  "params": {},
+  "pid": 49979,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:28:42.166Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/peak-hours",
+  "pid": 49979,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:28:42.294Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/analytics/peak-hours",
+  "statusCode": 200,
+  "totalStudents": 929,
+  "overallPeakHour": 15,
+  "pid": 49979,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:29:09.384Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.7.0",
+  "pid": 50480,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:29:17.690Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/volunteer-stats",
+  "ip": "::1",
+  "userAgent": "curl/8.7.1",
+  "query": {},
+  "params": {},
+  "pid": 50480,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:29:17.691Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/volunteer-stats",
+  "pid": 50480,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:29:17.871Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/analytics/volunteer-stats",
+  "statusCode": 200,
+  "totalVolunteers": 24,
+  "totalStudents": 930,
+  "pid": 50480,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:29:26.553Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/peak-hours",
+  "ip": "::1",
+  "userAgent": "curl/8.7.1",
+  "query": {},
+  "params": {},
+  "pid": 50480,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:29:26.559Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/peak-hours",
+  "pid": 50480,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:29:26.686Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/analytics/peak-hours",
+  "statusCode": 200,
+  "totalStudents": 929,
+  "overallPeakHour": 15,
+  "pid": 50480,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:29:38.687Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.7.0",
+  "pid": 51013,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:32:46.815Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.7.0",
+  "pid": 51333,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:33:02.736Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/peak-hours",
+  "ip": "::1",
+  "userAgent": "curl/8.7.1",
+  "query": {
+    "interval": "60"
+  },
+  "params": {},
+  "pid": 51333,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:33:02.737Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/peak-hours",
+  "interval": "60",
+  "pid": 51333,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:33:03.370Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/analytics/peak-hours",
+  "statusCode": 200,
+  "intervalMinutes": 60,
+  "totalStudents": 929,
+  "overallPeakInterval": "15:00",
+  "pid": 51333,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:33:08.740Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/peak-hours",
+  "ip": "::1",
+  "userAgent": "curl/8.7.1",
+  "query": {
+    "interval": "30"
+  },
+  "params": {},
+  "pid": 51333,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:33:08.741Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/peak-hours",
+  "interval": "30",
+  "pid": 51333,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:33:08.921Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/analytics/peak-hours",
+  "statusCode": 200,
+  "intervalMinutes": 30,
+  "totalStudents": 929,
+  "overallPeakInterval": "15:30 - 16:00",
+  "pid": 51333,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:33:14.125Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/peak-hours",
+  "ip": "::1",
+  "userAgent": "curl/8.7.1",
+  "query": {
+    "interval": "15"
+  },
+  "params": {},
+  "pid": 51333,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:33:14.127Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/peak-hours",
+  "interval": "15",
+  "pid": 51333,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:33:14.264Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/analytics/peak-hours",
+  "statusCode": 200,
+  "intervalMinutes": 15,
+  "totalStudents": 929,
+  "overallPeakInterval": "15:00 - 15:15",
+  "pid": 51333,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:33:23.418Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/peak-hours",
+  "ip": "::1",
+  "userAgent": "curl/8.7.1",
+  "query": {
+    "interval": "45"
+  },
+  "params": {},
+  "pid": 51333,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:33:23.419Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/peak-hours",
+  "interval": "45",
+  "pid": 51333,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:33:23.560Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/analytics/peak-hours",
+  "statusCode": 200,
+  "intervalMinutes": 45,
+  "totalStudents": 929,
+  "overallPeakInterval": "15:45 - 16:30",
+  "pid": 51333,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:33:31.589Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/peak-hours",
+  "ip": "::1",
+  "userAgent": "curl/8.7.1",
+  "query": {
+    "interval": "25"
+  },
+  "params": {},
+  "pid": 51333,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:33:31.590Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/peak-hours",
+  "interval": "25",
+  "pid": 51333,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T17:34:13.683Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.7.0",
+  "pid": 52836,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T21:44:54.221Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/summary",
+  "ip": "::1",
+  "userAgent": "curl/8.7.1",
+  "query": {},
+  "params": {},
+  "pid": 52836,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T21:44:54.234Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/summary",
+  "pid": 52836,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T21:44:55.949Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/analytics/summary",
+  "statusCode": 200,
+  "totalStudents": 880,
+  "totalScans": 930,
+  "uniqueVolunteers": 25,
+  "pid": 52836,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T21:45:03.329Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/volunteer-stats",
+  "ip": "::1",
+  "userAgent": "curl/8.7.1",
+  "query": {},
+  "params": {},
+  "pid": 52836,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T21:45:03.330Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/volunteer-stats",
+  "pid": 52836,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T21:45:03.986Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/analytics/volunteer-stats",
+  "statusCode": 200,
+  "totalVolunteers": 24,
+  "totalStudents": 930,
+  "pid": 52836,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T21:46:01.291Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.7.0",
+  "pid": 61425,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T21:46:38.297Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/summary",
+  "ip": "::1",
+  "userAgent": "curl/8.7.1",
+  "query": {},
+  "params": {},
+  "pid": 61425,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T21:46:38.299Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/summary",
+  "pid": 61425,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T21:46:39.187Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/analytics/summary",
+  "statusCode": 200,
+  "totalStudents": 880,
+  "totalScans": 930,
+  "uniqueVolunteers": 25,
+  "pid": 61425,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T21:47:12.662Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.7.0",
+  "pid": 61733,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T21:47:19.007Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.7.0",
+  "pid": 61783,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T21:47:24.660Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.7.0",
+  "pid": 61831,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T21:47:28.973Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.7.0",
+  "pid": 61877,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T21:49:46.749Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/stage-timing",
+  "ip": "::1",
+  "userAgent": "curl/8.7.1",
+  "query": {},
+  "params": {},
+  "pid": 61877,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T21:49:46.757Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/stage-timing",
+  "pid": 61877,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T21:49:47.626Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/analytics/stage-timing",
+  "statusCode": 200,
+  "totalStudentsAnalyzed": 880,
+  "averageJourney": "3h 7m",
+  "pid": 61877,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T21:50:18.372Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.7.0",
+  "pid": 62322,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T21:50:26.233Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.7.0",
+  "pid": 62373,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T21:50:29.329Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.7.0",
+  "pid": 62415,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T21:55:34.116Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.7.0",
+  "pid": 63001,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T21:56:25.349Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.7.0",
+  "pid": 63163,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T21:56:30.602Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.7.0",
+  "pid": 63207,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T21:56:34.886Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.7.0",
+  "pid": 63248,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T21:58:38.695Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/stage-timing",
+  "ip": "::1",
+  "userAgent": "curl/8.7.1",
+  "query": {},
+  "params": {},
+  "pid": 63248,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T21:58:38.697Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/stage-timing",
+  "pid": 63248,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T21:58:39.715Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/analytics/stage-timing",
+  "statusCode": 200,
+  "totalStudentsAnalyzed": 247,
+  "averageJourney": "3h 7m",
+  "pid": 63248,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T21:58:46.083Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/pending-counts",
+  "ip": "::1",
+  "userAgent": "curl/8.7.1",
+  "query": {},
+  "params": {},
+  "pid": 63248,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T21:58:46.084Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/pending-counts",
+  "pid": 63248,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T21:58:46.732Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/analytics/pending-counts",
+  "statusCode": 200,
+  "totalStudents": 880,
+  "mostBottleneck": "pendingKit",
+  "pid": 63248,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T21:59:28.009Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.7.0",
+  "pid": 64084,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T21:59:41.671Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/summary",
+  "ip": "::1",
+  "userAgent": "curl/8.7.1",
+  "query": {},
+  "params": {},
+  "pid": 64084,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T21:59:41.672Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/summary",
+  "pid": 64084,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T21:59:42.258Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/analytics/summary",
+  "statusCode": 200,
+  "totalStudents": 880,
+  "totalScans": 930,
+  "uniqueVolunteers": 25,
+  "pid": 64084,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T21:59:48.649Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/summary",
+  "ip": "::1",
+  "userAgent": "curl/8.7.1",
+  "query": {},
+  "params": {},
+  "pid": 64084,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T21:59:48.650Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/summary",
+  "pid": 64084,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T21:59:49.175Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/analytics/summary",
+  "statusCode": 200,
+  "totalStudents": 880,
+  "totalScans": 930,
+  "uniqueVolunteers": 25,
+  "pid": 64084,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T22:00:09.928Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.7.0",
+  "pid": 64585,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T22:01:10.274Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.7.0",
+  "pid": 64773,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T22:08:04.128Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.7.0",
+  "pid": 66353,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T22:08:04.129Z",
+  "level": "ERROR",
+  "message": "Port is already in use",
+  "port": "3002",
+  "error": "listen EADDRINUSE: address already in use :::3002",
+  "pid": 66353,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T22:08:54.581Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 64773,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T22:08:54.589Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "studentId": "RU00001",
+  "pid": 64773,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T22:08:54.589Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "students",
+  "studentId": "RU00001",
+  "pid": 64773,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T22:08:55.456Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/student/RU00001",
+  "statusCode": 200,
+  "studentId": "RU00001",
+  "studentFound": true,
+  "pid": 64773,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T22:08:55.471Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/scan/payment/RU00001",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "query": {},
+  "params": {},
+  "pid": 64773,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T22:08:55.472Z",
+  "level": "INFO",
+  "message": "PaymentService: Fetching payment data",
+  "studentId": "RU00001",
+  "pid": 64773,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T22:08:55.777Z",
+  "level": "ERROR",
+  "message": "PaymentService: API error",
+  "studentId": "RU00001",
+  "status": 404,
+  "statusText": "Not Found",
+  "data": {
+    "error": "Student not found in CSV"
+  },
+  "pid": 64773,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T22:25:17.158Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.7.0",
+  "pid": 68876,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T22:25:41.352Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/summary",
+  "ip": "::1",
+  "userAgent": "curl/8.7.1",
+  "query": {},
+  "params": {},
+  "pid": 68876,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T22:25:41.358Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/summary",
+  "pid": 68876,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T22:25:42.561Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/analytics/summary",
+  "statusCode": 200,
+  "totalStudents": 880,
+  "totalScans": 930,
+  "uniqueVolunteers": 25,
+  "pid": 68876,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T22:25:46.265Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/pending-counts",
+  "ip": "::1",
+  "userAgent": "curl/8.7.1",
+  "query": {},
+  "params": {},
+  "pid": 68876,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T22:25:46.266Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/pending-counts",
+  "pid": 68876,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T22:25:46.506Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/analytics/pending-counts",
+  "statusCode": 200,
+  "totalStudents": 880,
+  "mostBottleneck": "pendingKit",
+  "pid": 68876,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T22:25:49.222Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/student-journey",
+  "ip": "::1",
+  "userAgent": "curl/8.7.1",
+  "query": {},
+  "params": {},
+  "pid": 68876,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T22:25:49.223Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/student-journey",
+  "pid": 68876,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T22:25:49.524Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/analytics/student-journey",
+  "statusCode": 200,
+  "count": 880,
+  "pid": 68876,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T22:25:56.561Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/peak-hours",
+  "ip": "::1",
+  "userAgent": "curl/8.7.1",
+  "query": {},
+  "params": {},
+  "pid": 68876,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T22:25:56.562Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/peak-hours",
+  "interval": "60",
+  "pid": 68876,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T22:25:56.926Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/analytics/peak-hours",
+  "statusCode": 200,
+  "intervalMinutes": 60,
+  "totalStudents": 929,
+  "overallPeakInterval": "15:00",
+  "pid": 68876,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T22:28:58.671Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/pending-counts",
+  "ip": "::1",
+  "userAgent": "curl/8.7.1",
+  "query": {},
+  "params": {},
+  "pid": 68876,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T22:28:58.681Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/pending-counts",
+  "pid": 68876,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T22:28:59.468Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/analytics/pending-counts",
+  "statusCode": 200,
+  "totalStudents": 880,
+  "mostBottleneck": "pendingKit",
+  "pid": 68876,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T22:29:09.612Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/volunteer-stats",
+  "ip": "::1",
+  "userAgent": "curl/8.7.1",
+  "query": {},
+  "params": {},
+  "pid": 68876,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T22:29:09.617Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/volunteer-stats",
+  "pid": 68876,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T22:29:10.057Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/analytics/volunteer-stats",
+  "statusCode": 200,
+  "totalVolunteers": 24,
+  "totalStudents": 930,
+  "pid": 68876,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T22:29:12.854Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/peak-hours",
+  "ip": "::1",
+  "userAgent": "curl/8.7.1",
+  "query": {},
+  "params": {},
+  "pid": 68876,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T22:29:12.855Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/peak-hours",
+  "interval": "60",
+  "pid": 68876,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T22:29:13.006Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/analytics/peak-hours",
+  "statusCode": 200,
+  "intervalMinutes": 60,
+  "totalStudents": 929,
+  "overallPeakInterval": "15:00",
+  "pid": 68876,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T22:29:16.930Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/stage-timing",
+  "ip": "::1",
+  "userAgent": "curl/8.7.1",
+  "query": {},
+  "params": {},
+  "pid": 68876,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T22:29:16.932Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/stage-timing",
+  "pid": 68876,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T22:29:17.101Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/analytics/stage-timing",
+  "statusCode": 200,
+  "totalStudentsAnalyzed": 247,
+  "averageJourney": "3h 7m",
+  "pid": 68876,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T22:29:26.560Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/student-journey",
+  "ip": "::1",
+  "userAgent": "curl/8.7.1",
+  "query": {},
+  "params": {},
+  "pid": 68876,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T22:29:26.561Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/student-journey",
+  "pid": 68876,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T22:29:27.114Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/analytics/student-journey",
+  "statusCode": 200,
+  "count": 880,
+  "pid": 68876,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T22:29:31.232Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/student-journey/2024001",
+  "ip": "::1",
+  "userAgent": "curl/8.7.1",
+  "query": {},
+  "params": {},
+  "pid": 68876,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T22:29:31.233Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/student-journey/2024001",
+  "studentId": "2024001",
+  "pid": 68876,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T22:29:31.617Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "GET",
+  "path": "/api/analytics/student-journey/2024001",
+  "error": "JSON object requested, multiple (or no) rows returned",
+  "studentId": "2024001",
+  "pid": 68876,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T22:29:52.180Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/student-journey/RU00001",
+  "ip": "::1",
+  "userAgent": "curl/8.7.1",
+  "query": {},
+  "params": {},
+  "pid": 68876,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T22:29:52.182Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/analytics/student-journey/RU00001",
+  "studentId": "RU00001",
+  "pid": 68876,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-08-08T22:29:52.444Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/analytics/student-journey/RU00001",
+  "statusCode": 200,
+  "studentId": "RU00001",
+  "currentStage": "Kit",
+  "pid": 68876,
+  "service": "deskbuddy-backend"
+}
