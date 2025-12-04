@@ -74589,3 +74589,711 @@
   "pid": 68876,
   "service": "deskbuddy-backend"
 }
+{
+  "timestamp": "2025-12-04T05:53:35.819Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.7.0",
+  "pid": 19461,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T05:53:54.441Z",
+  "level": "INFO",
+  "message": "SIGINT received, shutting down gracefully",
+  "pid": 19461,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T05:53:54.455Z",
+  "level": "INFO",
+  "message": "Process terminated",
+  "signal": "SIGINT",
+  "pid": 19461,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T05:54:14.691Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.7.0",
+  "pid": 20048,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T05:54:32.900Z",
+  "level": "INFO",
+  "message": "SIGINT received, shutting down gracefully",
+  "pid": 20048,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T05:54:32.909Z",
+  "level": "INFO",
+  "message": "Process terminated",
+  "signal": "SIGINT",
+  "pid": 20048,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T05:54:58.009Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.7.0",
+  "pid": 20524,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T05:55:13.749Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.7.0",
+  "pid": 20677,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T05:55:13.750Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.7.0",
+  "pid": 20660,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T05:55:13.751Z",
+  "level": "ERROR",
+  "message": "Port is already in use",
+  "port": "3002",
+  "error": "listen EADDRINUSE: address already in use :::3002",
+  "pid": 20677,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T05:57:26.651Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.7.0",
+  "pid": 21229,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T05:57:26.652Z",
+  "level": "ERROR",
+  "message": "Port is already in use",
+  "port": "3002",
+  "error": "listen EADDRINUSE: address already in use :::3002",
+  "pid": 21229,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:00:40.417Z",
+  "level": "INFO",
+  "message": "Server started",
+  "port": "3002",
+  "environment": "development",
+  "nodeVersion": "v23.7.0",
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:01:10.215Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "POST",
+  "path": "/api/auth/register",
+  "ip": "::1",
+  "userAgent": "curl/8.7.1",
+  "body": {
+    "name": "Test User",
+    "email": "testuser@example.com",
+    "password": "testpassword123"
+  },
+  "query": {},
+  "params": {},
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:01:10.219Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "POST",
+  "path": "/api/auth/register",
+  "email": "testuser@example.com",
+  "name": "Test User",
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:01:10.220Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "users",
+  "email": "testuser@example.com",
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:01:11.380Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "INSERT",
+  "table": "users",
+  "email": "testuser@example.com",
+  "name": "Test User",
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:01:11.489Z",
+  "level": "INFO",
+  "message": "JWT token generated successfully",
+  "userId": "61e612f0-bfba-4088-a607-8c1ae25edad1",
+  "email": "testuser@example.com",
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:01:11.489Z",
+  "level": "INFO",
+  "message": "User registration successful",
+  "userId": "61e612f0-bfba-4088-a607-8c1ae25edad1",
+  "email": "testuser@example.com",
+  "name": "Test User",
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:01:11.489Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "POST",
+  "path": "/api/auth/register",
+  "statusCode": 201,
+  "userId": "61e612f0-bfba-4088-a607-8c1ae25edad1",
+  "email": "testuser@example.com",
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:01:17.362Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "POST",
+  "path": "/api/auth/login",
+  "ip": "::1",
+  "userAgent": "curl/8.7.1",
+  "body": {
+    "email": "testuser@example.com",
+    "password": "testpassword123"
+  },
+  "query": {},
+  "params": {},
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:01:17.363Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "POST",
+  "path": "/api/auth/login",
+  "email": "testuser@example.com",
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:01:17.363Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "users",
+  "email": "testuser@example.com",
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:01:17.883Z",
+  "level": "INFO",
+  "message": "JWT token generated successfully",
+  "userId": "61e612f0-bfba-4088-a607-8c1ae25edad1",
+  "email": "testuser@example.com",
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:01:17.883Z",
+  "level": "INFO",
+  "message": "User login successful",
+  "userId": "61e612f0-bfba-4088-a607-8c1ae25edad1",
+  "email": "testuser@example.com",
+  "name": "Test User",
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:01:17.883Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "POST",
+  "path": "/api/auth/login",
+  "statusCode": 200,
+  "userId": "61e612f0-bfba-4088-a607-8c1ae25edad1",
+  "email": "testuser@example.com",
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:01:34.596Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/auth/me",
+  "ip": "::1",
+  "userAgent": "curl/8.7.1",
+  "query": {},
+  "params": {},
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:01:34.615Z",
+  "level": "DEBUG",
+  "message": "JWT token verified successfully",
+  "userId": "61e612f0-bfba-4088-a607-8c1ae25edad1",
+  "email": "testuser@example.com",
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:01:34.786Z",
+  "level": "DEBUG",
+  "message": "JWT authentication successful",
+  "userId": "61e612f0-bfba-4088-a607-8c1ae25edad1",
+  "email": "testuser@example.com",
+  "path": "/me",
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:01:34.787Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/auth/me",
+  "userId": "61e612f0-bfba-4088-a607-8c1ae25edad1",
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:01:34.787Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "GET",
+  "path": "/api/auth/me",
+  "statusCode": 200,
+  "userId": "61e612f0-bfba-4088-a607-8c1ae25edad1",
+  "email": "testuser@example.com",
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:01:39.723Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/auth/me",
+  "ip": "::1",
+  "userAgent": "curl/8.7.1",
+  "query": {},
+  "params": {},
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:01:39.724Z",
+  "level": "WARN",
+  "message": "JWT authentication failed: No token provided",
+  "path": "/me",
+  "method": "GET",
+  "ip": "::1",
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:01:45.711Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "GET",
+  "path": "/api/auth/me",
+  "ip": "::1",
+  "userAgent": "curl/8.7.1",
+  "query": {},
+  "params": {},
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:01:45.713Z",
+  "level": "WARN",
+  "message": "Invalid JWT token",
+  "error": "jwt malformed",
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:01:45.713Z",
+  "level": "ERROR",
+  "message": "JWT authentication middleware error",
+  "error": "Invalid token",
+  "path": "/me",
+  "method": "GET",
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:01:52.186Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "POST",
+  "path": "/api/auth/logout",
+  "ip": "::1",
+  "userAgent": "curl/8.7.1",
+  "query": {},
+  "params": {},
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:01:52.187Z",
+  "level": "DEBUG",
+  "message": "JWT token verified successfully",
+  "userId": "61e612f0-bfba-4088-a607-8c1ae25edad1",
+  "email": "testuser@example.com",
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:01:52.294Z",
+  "level": "DEBUG",
+  "message": "JWT authentication successful",
+  "userId": "61e612f0-bfba-4088-a607-8c1ae25edad1",
+  "email": "testuser@example.com",
+  "path": "/logout",
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:01:52.294Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "POST",
+  "path": "/api/auth/logout",
+  "userId": "61e612f0-bfba-4088-a607-8c1ae25edad1",
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:01:52.294Z",
+  "level": "INFO",
+  "message": "User logout",
+  "userId": "61e612f0-bfba-4088-a607-8c1ae25edad1",
+  "email": "testuser@example.com",
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:01:52.294Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "POST",
+  "path": "/api/auth/logout",
+  "statusCode": 200,
+  "userId": "61e612f0-bfba-4088-a607-8c1ae25edad1",
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:01:57.796Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "POST",
+  "path": "/api/auth/register",
+  "ip": "::1",
+  "userAgent": "curl/8.7.1",
+  "body": {
+    "name": "Test User 2",
+    "email": "testuser@example.com",
+    "password": "anotherpassword123"
+  },
+  "query": {},
+  "params": {},
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:01:57.796Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "POST",
+  "path": "/api/auth/register",
+  "email": "testuser@example.com",
+  "name": "Test User 2",
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:01:57.796Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "users",
+  "email": "testuser@example.com",
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:01:57.931Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "POST",
+  "path": "/api/auth/register",
+  "error": "Email already exists",
+  "email": "testuser@example.com",
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:02:03.671Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "POST",
+  "path": "/api/auth/login",
+  "ip": "::1",
+  "userAgent": "curl/8.7.1",
+  "body": {
+    "email": "testuser@example.com",
+    "password": "wrongpassword"
+  },
+  "query": {},
+  "params": {},
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:02:03.671Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "POST",
+  "path": "/api/auth/login",
+  "email": "testuser@example.com",
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:02:03.671Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "users",
+  "email": "testuser@example.com",
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:02:04.282Z",
+  "level": "WARN",
+  "message": "Login failed: Invalid password",
+  "userId": "61e612f0-bfba-4088-a607-8c1ae25edad1",
+  "email": "testuser@example.com",
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:02:04.282Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "POST",
+  "path": "/api/auth/login",
+  "error": "Invalid password",
+  "email": "testuser@example.com",
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:02:10.356Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "POST",
+  "path": "/api/auth/login",
+  "ip": "::1",
+  "userAgent": "curl/8.7.1",
+  "body": {
+    "email": "nonexistent@example.com",
+    "password": "somepassword"
+  },
+  "query": {},
+  "params": {},
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:02:10.356Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "POST",
+  "path": "/api/auth/login",
+  "email": "nonexistent@example.com",
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:02:10.356Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "users",
+  "email": "nonexistent@example.com",
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:02:10.542Z",
+  "level": "ERROR",
+  "message": "API Error",
+  "type": "api_error",
+  "method": "POST",
+  "path": "/api/auth/login",
+  "error": "User not found",
+  "email": "nonexistent@example.com",
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:03:24.584Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "POST",
+  "path": "/api/auth/login",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+  "body": {
+    "email": "testuser@example.com",
+    "password": "testpassword123"
+  },
+  "query": {},
+  "params": {},
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:03:24.587Z",
+  "level": "INFO",
+  "message": "API Request",
+  "type": "api_request",
+  "method": "POST",
+  "path": "/api/auth/login",
+  "email": "testuser@example.com",
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:03:24.587Z",
+  "level": "DEBUG",
+  "message": "Database Query",
+  "type": "db_query",
+  "operation": "SELECT",
+  "table": "users",
+  "email": "testuser@example.com",
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:03:25.976Z",
+  "level": "INFO",
+  "message": "JWT token generated successfully",
+  "userId": "61e612f0-bfba-4088-a607-8c1ae25edad1",
+  "email": "testuser@example.com",
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:03:25.977Z",
+  "level": "INFO",
+  "message": "User login successful",
+  "userId": "61e612f0-bfba-4088-a607-8c1ae25edad1",
+  "email": "testuser@example.com",
+  "name": "Test User",
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:03:25.977Z",
+  "level": "INFO",
+  "message": "API Response",
+  "type": "api_response",
+  "method": "POST",
+  "path": "/api/auth/login",
+  "statusCode": 200,
+  "userId": "61e612f0-bfba-4088-a607-8c1ae25edad1",
+  "email": "testuser@example.com",
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:06:31.002Z",
+  "level": "INFO",
+  "message": "SIGINT received, shutting down gracefully",
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}
+{
+  "timestamp": "2025-12-04T06:06:31.014Z",
+  "level": "INFO",
+  "message": "Process terminated",
+  "signal": "SIGINT",
+  "pid": 23182,
+  "service": "deskbuddy-backend"
+}

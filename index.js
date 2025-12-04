@@ -1,6 +1,11 @@
 const express = require("express");
 const cors = require("cors");
 require("dotenv").config();
+
+// Polyfills for Supabase in Node.js environment
+global.WebSocket = require('ws');
+global.fetch = require('cross-fetch');
+
 const logger = require("./utils/logger");
 const axios = require("axios");
 
@@ -23,6 +28,7 @@ app.use((req, res, next) => {
   next();
 });
 
+app.use("/api/auth", require("./routes/auth"));
 app.use("/api/student", require("./routes/student"));
 app.use("/api/scan", require("./routes/scan"));
 app.use("/api/email", require("./routes/email"));
